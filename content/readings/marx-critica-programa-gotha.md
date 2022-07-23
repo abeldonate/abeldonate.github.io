@@ -3,7 +3,7 @@ title = "Marx - Crítica al programa de Gotha"
 date = 2021-12-04
 +++
 
-Crítica al programa de unificación del **Partido Obrero Socialdemócrata** (Bebel y Liebknecht) y la **Asociación General de Obreros Alemanes** (Lassalle) en 1875.
+aCrítica al programa de unificación del **Partido Obrero Socialdemócrata** (Bebel y Liebknecht) y la **Asociación General de Obreros Alemanes** (Lassalle) en 1875.
 
 El Programa del que estamos hablando es el siguiente:
 
