@@ -18,7 +18,7 @@ generate_feed = true
 # The taxonomies to be rendered for the site and their configuration of the default languages
 taxonomies = [
     { name = "tags", rss = true },
-    { name = "categories", rss = true },
+    { name = "categories", rss = true }
 ]
 
 [markdown]
