@@ -24,7 +24,7 @@ A map with all the countries I have visited
 - Bahrain
 - Bangladesh
 - Barbados
-- ~~Belarus~~
+- Belarus
 - Belgium
 - Belize
 - Benin
@@ -152,7 +152,7 @@ A map with all the countries I have visited
 - Portugal
 - Qatar
 - Romania
-- ~~Russian Federation~~
+- Russian Federation
 - Rwanda
 - St Kitts & Nevis
 - St Lucia

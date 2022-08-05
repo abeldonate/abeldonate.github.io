@@ -15,11 +15,63 @@ Como Marx se comprometió demasiado con el concepto de la continuidad del progre
 
 # I Los condicionamientos históricos del pensamiento de Marcuse
 
+Nacido en Berlín en 1898. Familia judía. Especialista en Hegel. Influido por Marx y Freud. Abandonó la política en 1919 tras el asesinato de Luxemburgo y Liebneck. Tras el ascenso de Hitler huye a EEUU.
+
+El núcleo de su obra es la reflexión sobre Hegel, Marx y Freud representada por los cuatro libros:
+
+- Reason and revolution (1941)
+
+- Eros and civilization (1955)
+
+- Soviet Marxism (1958)
+
+- One-Dimensional Man (1964)
+
+La obra que más le influyo en su pensamiento inicial fue *Historia y conciencia de clases*, de Lukacs. Marcuse desde EEUU y Lukacs desde la URSS se encomendaron el trabajo de revalorizar a Hegel.
+
 # II La reflexión sobre Hegel
+
+El pensamiento dialéctioco empieza por la constatación de que el mindo no es libre. Cualquier modo de pensamiento que excluya de su lógica la contradicción encierra una lógica defectuosa. COmprender la realidad significa comprender lo qeu las cosas son, lo cual exige, a la vez, la no-aceptación de su apariencia. "La verdad es el conjunto y el conjunto es falso".
+
+Marx critica a Hegel en nombre de la razón, de una razón dotada de posibilidad correctiva  sobre sí misma. Hegel anticipa, casi literalmente, el mensaje del *Parsifal* de Wagner: "La mano que inflige la herida es también la mano que la cura". El proletariado, en tanto que clase social antagónica de la burguesía, demuestra que la Historia no puede ser expresión de armonía. La existencia del proletariado proporciona un testimonio vivo del hecho de que la verdad no se ha realizado. La historia y la realidad social niegan a la filosofía. La crítica de la sociedad no puede hacerse desde la filosofía, sino que se convierte en objeto de la acción social e histórica.
+
+El objetivo de la filosofía negativa será, pues, descubrir la realidad del drama de la existencia humana, agravado por la necesidad de reconstruir y volver a hallar la libertad en el proceso enajenador de la Historia.
+
+El pensamiento es, constitutivamente, utopía, y de ningún modo un medio para producir, distribuir y divulgar utopías para uso de los consumidores que, en el ámbito de la sociedad actual, requieran soluciones provisionales o se caligiquen a sí mismos como revolucionarios.
+
+La primera forma de manifestación del pensamiento dialéctico tiene que ser forzosamente la de la negación absoluta: protesta contra la no-libertad, rebeldía contra una realidad reificada. La libertad, por lo tanto es, esencialmente negativa por su carácter de negación de aquella negatividad enajenadora y represiva que viene constituida por la positividad del estado existente.
 
 # III La reflexión sobre Marx
 
+Marx impregna todos los libros de Marcuse. No es solo un punto de referencia constante, sino el eje sobre el que gira todo el confunto de la especulación. En *El marxismo soviético* ha contrapuesto Marcuse las teorías de Marx a las realizaciones de la URSS y las criticas a los dirigentes soviéticos que se desprende de este libro nos da la medida de la fidelidad de Marcuse al pensamiento de Marx.
+
+En la sociedad capuralista acrual el hompre se encuentra progresivamente enajenado, se ve obligado a renunciar a la propia personalidad espiritual y tiende cada vez más a quedar reificado, objetivado como mercancía. La sociedad capitalista es negatica porque esta fundada sobre el trabajo enafenador; pero también es positiva porque encierra en sí misma la posibilidad de su negación.
+
+Marcuse no pretende presentarse más que como fiel continuador de las ideas motrices del pensamiento de Marx, al que considera traicionado en parte por los realizadores del marxismo soviético. Marcuse insiste en su obra en un tema que considera central: la aspiración a la **felicidad**. Acepta a Marx en su totalidad, pero quiere subrayar aquel temario del derecho a la felicidad, muchas veces voluntariamente puesto en olvido.
+
+Violenta al hombre toda realización social que no tenga en cuenta que la riqueza verdadera sólo la proporciona, como decía Marx, el tiempo libre. Entonces, no es ya el tiempo de trabajo, sino el tiempo libre lo que mide la riqueza.
+
+La genialidad política de Lenin y sus limitaciones teóricas consisten en haber establecido los cimientos materiales del edificio socialista sin ninguna pretensión de modificar su concepción teórica.
+
+El marxismo soviético vive de realidades que continúa negando en teoría: el papel desempeñado por los campesinos en la revolución rusa, los cambios estructurales del proletariado occidental, la solidez económica del mundo capitalista y, más tarde, el hecho de que han accedido al socialismo países cuya revolución no se ha hecho desde un sistema de capitalismo avanzado, sino desde un estadio de subdesarrollo absoluto: CHina, Corea, Vietnam, Cuba, etc.
+
+Para Marx y Engels, la **ideología** es una ilusión (Schein) necesaria resultado de una organización social de la producción que se aparece al hombre como un sistema de leyes y fuerzas independientes objetivas. En tanto que reflejo de la base social real, la ideología participa de la verdad, pero ésta se expresa bajo una forma errónea. Las ideas de la clase dominante  se implantan como ideas dominantes y pretenden a una calidez universal. Los últimos reductos ideológicos de protesta (arte, literatura, filosofía) resulten los más perseguidos por lo que tienen de repudiación del orden establecido.  
+
+La teoría soviética implica:
+
+- Negarse a admitir la posibilidad de una transformación explosiva bajo el socialismo establecido. 
+
+- Desaparición de la negación de la negación en el vocabulario dialéctico
+
+En resumen, el marxismo soviético representa el parón de la dialéctica en interés del orden vigente, y la ideología obedecerá al parón del socialismo real.
+
 # IV La reflexión sobre Freud
+
+La proposición de Freud según la cual la civilización se basa en la subyugación permanente de los instintos humanos se ha acogido como cosa natural.
+
+La renuncia a la satisfacción y su aplazamiento son las premisas del progreso. La felicidad - decía Freud - no es ningún valor cultural.
+
+Marcuse no está de acuerdo con las conclusiones de Freud y cree que, precisamente, la felicidad es un valor cultural.
 
 # V Desde el hombre unidimensional al Estado totalitario
 
