@@ -18,7 +18,7 @@ A map with all the countries I have visited
 - Argentina
 - Armenia
 - Australia
-- Austria
+- ~~Austria~~
 - Azerbaijan
 - Bahamas
 - Bahrain
@@ -50,7 +50,7 @@ A map with all the countries I have visited
 - Congo
 - Congo {Democratic Rep}
 - Costa Rica
-- Croatia
+- ~~Croatia~~
 - Cuba
 - Cyprus
 - Czech Republic
@@ -82,7 +82,7 @@ A map with all the countries I have visited
 - Guyana
 - Haiti
 - Honduras
-- Hungary
+- ~~Hungary~~
 - Iceland
 - India
 - Indonesia
@@ -166,8 +166,8 @@ A map with all the countries I have visited
 - Seychelles
 - Sierra Leone
 - Singapore
-- Slovakia
-- Slovenia
+- ~~Slovakia~~
+- ~~Slovenia~~
 - Solomon Islands
 - Somalia
 - South Africa

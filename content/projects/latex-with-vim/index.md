@@ -4,6 +4,7 @@ date = 2020-08-22
 
 [taxonomies]
 categories = ["software"]
+tags = ["dotfiles"]
 +++
 
 I make my class notes with Vim in LaTeX using the extensions vim-tex and UltiSnip.

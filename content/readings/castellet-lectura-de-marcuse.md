@@ -75,6 +75,42 @@ Marcuse no está de acuerdo con las conclusiones de Freud y cree que, precisamen
 
 # V Desde el hombre unidimensional al Estado totalitario
 
+El concepto de hombre que surge de la teoría freñudiana es la acusación más irrefutable contra la civilización occidental. La historia de la humanidad es la historia de la lucha por la conquista de la libertad; Freud dice que la historia del hombre es la historia de sus represiones.
+
+El induviduo existe, como si dijeramos, en **dos dimensiones diferentes**:
+
+- El **inconsciente** regido por el placer y los procesos más primarios.
+
+- Principio de la **realidad**, medio natural y humano.
+
+La sustitución del principio del placer por el principio de la realidad es el gran aciontecimiento traumático del hombre. El hombre civilizado no quiere reconocer al propio inconsciente.
+
+Resumimos ahora las características de la sociedad del capitalismo organizado, de donde ha emergido el hombre unidimensional. 
+
+- Bienes y servicios se producen y consumen con una satisfacción creciente.
+
+- Se mantiene la ilusión de un pluralismo de opiniones que, sin embargo, no toca el fondo de las cuestiones o de los problemas básicos.
+
+- Tendencia a la integración de las clases sociales a través de la esfera del consumo.
+
+- La cultura material y la intelectual, las esferas privadas y las públicas, los sentimientosy la razón, la lengua y el pensamiento, se adaptan a las exigencias del aparato y, en la medida dque son exigencias se transforman en neesidades, modalidades de comportamiento y de expresión, aspiraciones de los individuos.
+
+Del hombre unidimensional hemos pasado a la sociedad unidimensional donde todo se integra en el sistema y el sistema lo es todo.
+
+La ciencia, a causa de sus métodos y conceptos, ha realizado el proyecto de un universo donde el dominio sobre la naturaleza ha quedado estrechamente ligado al dominio sobre el hombre. Le mindo tiende a convertierse en la sustancia de una administración tecnocrática total, que envuelve a los propios administradores.
+
+El **estado de bienestar** no proporciona más libertad, sino que la restringe en tanto que restringe el tiempo libre, la cantidad y calidad de los productos y los servicios. Asistimos a una debilitación de la libertad y de la oposición al sistema, por culpa de un proceso social objetivo donde la producción y la distribución de una cantidad creciente de productos y de servicios crean una actitud, en parte racional, de conformidad con la tecnología.
+
+La **unidimensionalidad** se provoca desde el poder, a través de la propaganda, de la uniformidad de la enseánza y de la unilateralidad de la información. El resultado es la imposibilidad de conseguir el nivel de libertad necesario a fin de realizarse personalmente.
+
+La unidimensionalidad soviética también nos explica su fácil adaptación a la política de coexistencia con el capitalismo. Tanto la deformación que ha sufrido el socialismo respecto a su idea originaria, como la transformación fundamental que ha experimentado el capitalismo, son explicables, en gran parte, por esta coexistencia.
+
+Uno de los problemas importantes del socialismo de la URSS consiste en el hecho de que se encuentre dependiendo estrechamente de otra gran potencia como EEUU, lo que le hace falsear los ideales del internacionalismo proletario.
+
+La URSS ha impedido el normal y libre desarrollo de muchos pueblos oprimidos. No solo ha permitido la agresión directa, sino que también ha permitido mantener bajo uno u otro extensas áreas geográficas por razones opuestas (más agresivas las americanas, más defensivas las soviéticas), pero con resultados desastrosos para los pueblos. Los dirigentes han olvidado los principios de Marx y Engels de la estructura dialéctica del mundo.
+
+Del **stajanovismo** al **zhdanovismo** la movilización de los obreros e intelectuales se ha manifestado en un solo sentido: producir más en una sola dirección. El resultado ha sido la eliminación de la negación y de las contradicciones.
+
 # VI De la utopía a la realidad
 
 # Conclusión
