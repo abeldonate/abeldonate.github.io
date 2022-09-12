@@ -7,7 +7,7 @@ template = "about.html"
 
 A map with all the countries I have visited
 
-![Caption](./map/FinalMap.svg)
+![Caption](./FinalMap.svg)
 
 - Afghanistan
 - Albania
