@@ -109,7 +109,7 @@ Uno de los problemas importantes del socialismo de la URSS consiste en el hecho 
 
 La URSS ha impedido el normal y libre desarrollo de muchos pueblos oprimidos. No solo ha permitido la agresión directa, sino que también ha permitido mantener bajo uno u otro extensas áreas geográficas por razones opuestas (más agresivas las americanas, más defensivas las soviéticas), pero con resultados desastrosos para los pueblos. Los dirigentes han olvidado los principios de Marx y Engels de la estructura dialéctica del mundo.
 
-Del **stajanovismo** al **zhdanovismo** la movilización de los obreros e intelectuales se ha manifestado en un solo sentido: producir más en una sola dirección. El resultado ha sido la eliminación de la negación y de las contradicciones.
+Del **stajanovismo** al **zhdanovismo** la movilización de los obreros e intelectuales se ha manifestado en un solo sentido: producir más en una sola dirección. El resultado ha sido la eliminación de la negación y de las contradicciones. 
 
 # VI De la utopía a la realidad
 
