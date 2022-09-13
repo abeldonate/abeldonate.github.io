@@ -41,14 +41,17 @@ feed_filename = "atom.xml"
 projects = "Projects"
 lectures = "Lectures"
 readings = "Readings"
+thoughts = "Thoughts"
 blog = "Blog"
 about = "About"
 recent_projects = "Recent Projects"
 recent_lectures = "Recent Lectures"
 recent_readings = "Recent Readings"
+recent_thoughts = "Recent Thoughts"
 more_lectures = "More Lectures"
 more_projects = "More Projects"
 more_readings = "More Readings"
+more_thoughts = "More Thoughts"
 recent_blog_posts = "Recent Blog Posts"
 more_blog_posts = "More blog posts"
 tag = "Tag"
@@ -77,6 +80,7 @@ menu_items = [
     { name = "projects", url = "$LANG_BASE_URL/projects", show_recent = true, recent_items = 3, recent_trans_key = "recent_projects", more_trans_key = "more_projects" },
     { name = "lectures", url = "$LANG_BASE_URL/lectures", show_recent = true, recent_items = 3, recent_trans_key = "recent_lectures", more_trans_key = "more_lectures" },
     { name = "readings", url = "$LANG_BASE_URL/readings", show_recent = true, recent_items = 3, recent_trans_key = "recent_readings", more_trans_key = "more_readings" },
+    { name = "thoughts", url = "$LANG_BASE_URL/thoughts", show_recent = true, recent_items = 3, recent_trans_key = "recent_thoughts", more_trans_key = "more_thoughts" },
     #{ name = "blog", url = "$LANG_BASE_URL/blog", show_recent = true, recent_items = 3, recent_trans_key = "recent_blog_posts", more_trans_key = "more_blog_posts" },
     # tag is not a zola section, it's just a link.
     { name = "tags", url = "$LANG_BASE_URL/tags" },
