@@ -14,6 +14,6 @@ This lecture was the final project of a summer research course in Centre de Rece
 <li classs="inline-block">
     <a  target="_blank"
         class"align-middle"
-        href="PresentationCoxeter.pdf">Coxeter Matroids</a>
+        href="PresentationCoxeter.pdf">Coxeter Matroids</a> 
 
 </li>
