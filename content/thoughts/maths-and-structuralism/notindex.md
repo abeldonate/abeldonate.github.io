@@ -30,12 +30,42 @@ The idea behind structuralism is to displace the focus from the **object** to **
 
 The context of the development in the current is the context of formalization of mathematics via the axioms of set theory. Zermelo axioms described the set of the naturals recursively with the use of the alternative successor function $f:x\to x\cup \{x\}$. Benecraft, as structuralist, states that natural numbers (types of objects) should not be identified with theoretical objects, he even states that such objects do not exists. Instead, he thinks about the structure that lays underneath, the "natural number structure", and treat numbers merely as positions in this structure.
 
+
+
+We define a **system** to be a collection of objects with certain relation on those objects. A **structure** is thte abstract form of a system. It ignores the features of the objects that are not represented in any relation. The key point of a structure is the idea of **universality**, that generalizes the idea of **property**. A property can be found in some sets of objects, but structures universalizes this properties, no matter the objects involved in.
+
+
+
+## Three types of structuralism
+
+- **Platonic *ante rem*** holds that structures exist and are ontologically **prior** to any system that have that structure.
+
+- **Aristotelian *in re*** holds that structures are ontologically **posterior** to the systems that exemplify them.
+
+- **With no structures**. Do not accept that structures are an ontollogy.
+
+At this point we see that the main different between the first two types is a matter of causality, if structures form systems or vice versa. The third one is just denying the existence of the structure and treat it as a shorthand for talking about similarity between systems.
+
+
+
+We see the differences in these 3 approaches by an example:
+
+
+
+Take, for example, a vector space as a system. 
+
+ 
+
+
+
 (isomorphism graphs)
-
-
 
 (ontologicallly)
 
 
 
-[^stanford]: [aa](https://plato.stanford.edu/entries/structuralism-mathematics/)
+(ontology of structures. subject of matter of a given branch of mathematics is a particular structure)
+
+[^stanford]: [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/structuralism-mathematics/)
+
+[^diction ]: [Internet Encyclopedia of Philosophy](https://iep.utm.edu/m-struct/))
