@@ -1,0 +1,3 @@
+[submodule "content/readings/reading-timeline"]
+	path = content/readings/reading-timeline
+	url = https://github.com/abeldonate/reading-timeline.git
