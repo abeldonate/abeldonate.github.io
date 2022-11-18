@@ -17,8 +17,8 @@ generate_feed = true
 
 # The taxonomies to be rendered for the site and their configuration of the default languages
 taxonomies = [
-    { name = "tags", rss = true },
-    { name = "categories", rss = true },
+    { name = "tags", feed=true, lang = "en"},
+    { name = "categories", feed=true, lang = "en"},
 ]
 
 [markdown]
@@ -36,6 +36,10 @@ title = "Abel Doñate Muñoz"
 description = "My personal website"
 generate_feed = true
 feed_filename = "atom.xml"
+taxonomies = [
+    { name = "tags", feed = true, lang = "en" },
+    { name = "categories", feed = true, lang = "en" },
+]
 
 [languages.en.translations]
 projects = "Projects"
