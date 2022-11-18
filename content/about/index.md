@@ -8,6 +8,6 @@ template = "about.html"
 
 &nbsp;
 
-Hello!, my name is Abel Doñate, I am currently studying Mathematics and Engineering Physics at Polytechnic University of Catalonia (UPC).
+Hello!, my name is Abel Doñate, I am currently studying Mathematics and Engineering Physics at Polytechnic University of Catalonia (UPC). 
 
 Find my CV <a href="CV.pdf" target="blank">here</a>.
