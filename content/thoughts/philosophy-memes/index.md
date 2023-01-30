@@ -13,7 +13,7 @@ Me gusta pensar en la categoría meme como una nueva forma literaria, en cierto 
 
 Las subcategorías dentro del género son abrumadoramente amplias: desde las más "wholesome" (memes family friendly que fomentan los sentiemientos afectivos hacia otras personas, animales u objetos), hasta los más "dank" (memes con referencias satíricas a comportamientos no considerados políticamente correctos), pasando por los memes "fast" (los creados temporalmente ad hoc, donde el contexto es muy importante). Cada subcategoría evoluciona a medida que se relaciona con su entorno, bebiendo de otras subcategorías y rechazando el material que no ha tenido una buena adaptación al público. Otra de las subcategorías más importantes es la del "shitpost", carecterizada por una estética marcadamente antiestética, consiguiendo así una dialéctica en la imágen en confrontación directa con las técnicas ilustrativas hasta la fecha. 
 
-A continuación vemos algunos conceptos ejemplificados en memes concretos.
+A continuación vemos algunos conceptos ejemplificados en memes concretos. 
 
 ---
 
