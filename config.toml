@@ -1,4 +1,4 @@
-# The URL the site will be built for
+# The URL the site will be built for 
 base_url = "https://abeldonate.github.io/"
 
 title = "Abel Doñate Muñoz"
