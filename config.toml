@@ -31,15 +31,6 @@ highlight_theme = "material-light"
 
 [languages]
 
-[languages.en]
-title = "Abel Doñate Muñoz"
-description = "My personal website"
-generate_feed = true
-feed_filename = "atom.xml"
-taxonomies = [
-    { name = "tags", feed = true, lang = "en" },
-    { name = "categories", feed = true, lang = "en" },
-]
 
 [languages.en.translations]
 projects = "Projects"
