@@ -4,10 +4,12 @@ render = true
 template = "about.html"
 +++
 
-{{ img(path="@/about/bell.png", class="bordered", alt="It's me!", caption="It's me! (A bell)") }}
+{{ img(path="@/about/structuralism.png", class="bordered", alt="It's me!", caption="It's me!") }}
 
 &nbsp;
 
-Hello!, my name is Abel Doñate, I am currently studying Mathematics and Engineering Physics at Polytechnic University of Catalonia (UPC). 
+Hello!, my name is Abel Doñate, I am currently studying Mathematics and Engineering Physics at Polytechnic University of Catalonia (UPC).
+
+My main interests are mathematics, music theory and thinking about useless stuff (the judgment of whether the first two are contained in the third is left to the reader). This webpage will be a reflection of that (sorry in advance).
 
 Find my CV <a href="CV.pdf" target="blank">here</a>.
