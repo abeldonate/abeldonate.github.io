@@ -4,7 +4,7 @@ render = true
 template = "about.html"
 +++
 
-{{ img(path="@/about/structuralism.png", class="bordered", alt="It's me!", caption="It's me!") }}
+<img src="structuralism.png">
 
 &nbsp;
 
