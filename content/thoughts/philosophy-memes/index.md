@@ -14,7 +14,7 @@ padding:5pt
 }
 </style>
 
-# Disclaimer
+# Disclaimer inicial
 
 Este post no pretende hacer un estudio histórico o literario del género memístico. Su propósito principal es tratar el género desde un punto de vista puramente hermenéutico, desligando la obra de las posibles intencionalidades iniciales de su autor/a. 
 
@@ -43,7 +43,6 @@ Me resulta fascinante pensar también cómo esta categoría es capaz de deconstr
 
 <img src="images/pensamiento.png" width="100%">
 
-(insertar el meme de la plusvalia y de la razón por la que no puedo ser feliz)
 
 ## Con propósito
 Hasta ahora hemos hablado únicamente de la relación del espectador con el contenido, pero hemos supuesto que este espectador era único. Existen categorías como la de los memes con un propósito donde se involucran al menos dos personas en el proceso de espectación. Un agente es el que realiza la primera acción de enviar con un propósito la pieza, mientras que el otro la recibe. Observamos como se ve inalterada el atre que yace de la obra, pues tanto el primer agente como el segundo pueden interpretan el meme de acuerdo exclusivamente con sus propias ideas. Pese a que pueda parecer que el primer agente haga un intento de influenciar al segundo en la lectura, este dotaría en última instancia de un contexto único y personal a la pieza recibida.
@@ -52,7 +51,6 @@ En la primera imagen pueden advertirse elementos propios de la categoría shitpo
 
 <img src="images/conproposito.png" width="100%">
 
-{meperdonas y aguilas panas}
 
 ## Contextuales
 Hay obras que refieren cierto conocimiento (y posicionamiento implícito) sobre una determinada coyuntura histórico-social, ya sea pasada, presente o futura. Esta es, quizá, la subcategoría más "targeted" en cuanto a un público determinado se refiere (con bastante solapamiento con la de pensamiento), generando aceptación o rechazo en función del espectador. Aunque en este caso hay una clara intención por parte del autor, considero más interesante analizarlo desde la óptica del atre. Desde la posición del espectador pueden suceder varios fenómenos, entre ellos destaco los siguientes:
