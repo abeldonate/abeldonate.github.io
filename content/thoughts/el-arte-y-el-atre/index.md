@@ -15,6 +15,7 @@ Presento la idea de atre como contraposición directa a la de la concepción cl�
 # Brevísimo análisis histórico de la evolución del arte
 
 Intentaré ordenar cronológicamente las distintas experiencias por época y por cultura, intentando recuperar ideas fuera de la órbita clásica/occidental.
+
 ### Antigua Grecia
 De la mano de textos como los de Aristóteles sabemos que la palabra que más se ajusta al concepto presente de arte es la de *techne* (oficio, habilidad, técnica), significando "la capacidad de ejecutar algo con una comprensión apropiada". Cabe destacar que la poesía y la música quedaban exentas de la cualidad artística, por pensarse productos fuera de la racionalidad que caracterizaba al arte. A este concepto de arte se ajustaban más disciplinas como la arquitectura, la pintura o la artesanía.
 
@@ -43,3 +44,5 @@ Considero que cuando escucho una obra no estoy escuchando de forma directa la "e
 # Conclusión
 
 La motivación para hacer este artículo no es únicamente la interesante discusión que pueda surgir sobre la naturaleza y la concepción del arte, discusión que ha llenado bastantes libros de autores reconocidos, sino en dejar de lado todo lo que rodea a la idea de arte creando un marco práctico basado en la idea expuesta de atre pensando en futuros posts.
+
+Termino invitando a la reflexión con una frase que encontré en un cartel anónimo "la obligación de producir aliena la pasión por crear".
