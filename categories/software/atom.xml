@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>Abel Doñate Muñoz - software</title>
+    <link href="https://abeldonate.github.io/categories/software/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://abeldonate.github.io/"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2021-08-11T00:00:00+00:00</updated>
+    <id>https://abeldonate.github.io/categories/software/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Workflow with bspwm as window manager</title>
+        <published>2021-08-11T00:00:00+00:00</published>
+        <updated>2021-08-11T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://abeldonate.github.io/projects/bspwm-as-window-manager/" type="text/html"/>
+        <id>https://abeldonate.github.io/projects/bspwm-as-window-manager/</id>
+        
+        <content type="html">&lt;p&gt;In this post I&#x27;m trying to explain my workflow on the computer. Dotfiles are in &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;abeldonate&#x2F;.dotfiles&quot;&gt;this&lt;&#x2F;a&gt; GitHub repo.&lt;&#x2F;p&gt;
+&lt;img src=&quot;screenshot.png&quot;&gt;
+&lt;p&gt;I use bspwm as tilling window manager and sxhkd for the shortcuts. I consider it one of the simplest wm for the easy config files and the intuitive working. For those who know the world of wm, bspwm might not be the best option because it is not as complete and modular as other wm, but I think it is a good way to start in ricing linux.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Bspwm&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;Bspwm is a tiling window manager that works as a binary tree, splitting the window in two each time you open a window.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Sxhkd&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;Sxhkd is a shortcut manager that allows you to store custom shortcuts. Shortcuts are very useful to call actions on bspwm (open, close, move, resize windows, etc) as well as open programs and in general run a custom command.&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Latex with Vim</title>
+        <published>2020-08-22T00:00:00+00:00</published>
+        <updated>2020-08-22T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://abeldonate.github.io/projects/latex-with-vim/" type="text/html"/>
+        <id>https://abeldonate.github.io/projects/latex-with-vim/</id>
+        
+        <content type="html">&lt;p&gt;I make my class notes with Vim in LaTeX using the extensions vim-tex and UltiSnip.&lt;&#x2F;p&gt;
+&lt;p&gt;All the work here have been taken from Gilles Castel &lt;a href=&quot;https:&#x2F;&#x2F;castel.dev&#x2F;post&#x2F;lecture-notes-1&#x2F;&quot;&gt;here&lt;&#x2F;a&gt;, who has documented all the process of improving his workflow with latex and vim insanely well.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;vimtex&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;vim-tex is an extension for vim that allows you to compile and render a .pdf file from a .tex in vim.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;UltiSnip&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;UltiSnip is a vim extension that manages snippets. Snippets are not only used for tex, but I find them incredibly useful when writing .tex files, as allows you to store repetitive and tedious patterns in a few keys. With a good structure of these snippets is possible even write faster than by hand.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Inkscape&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;I create the figures in my .tex files using Inkscape. Shortcuts for improving the workflow in Inkscape are available in Gilles Castell&#x27;s &lt;a href=&quot;https:&#x2F;&#x2F;castel.dev&#x2F;post&#x2F;lecture-notes-2&#x2F;&quot;&gt;webpage&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>

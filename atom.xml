@@ -1,0 +1,996 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>Abel Doñate Muñoz</title>
+    <link href="https://abeldonate.github.io/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://abeldonate.github.io/"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2023-09-08T00:00:00+00:00</updated>
+    <id>https://abeldonate.github.io/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Bounded Cohomology of groups</title>
+        <published>2023-09-08T00:00:00+00:00</published>
+        <updated>2023-09-08T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://abeldonate.github.io/lectures/bounded-cohomology/" type="text/html"/>
+        <id>https://abeldonate.github.io/lectures/bounded-cohomology/</id>
+        
+        <content type="html">&lt;p&gt;In the following pdf you will find some notes I took during my research stay at ICMAT (Madrid) on Bounded Cohomology of groups.&lt;&#x2F;p&gt;
+&lt;p&gt;This lecture was the final project of the summer program JAE-INTRO at ICMAT. &lt;&#x2F;p&gt;
+&lt;li classs=&quot;inline-block&quot;&gt;
+    &lt;a  target=&quot;_blank&quot;
+        class&quot;align-middle&quot;
+        href=&quot;Notes.pdf&quot;&gt;Bounded Cohomology&lt;&#x2F;a&gt; 
+&lt;&#x2F;li&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>I crafted my own sikus (panflute)</title>
+        <published>2023-08-11T00:00:00+00:00</published>
+        <updated>2023-08-11T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://abeldonate.github.io/projects/sikus/" type="text/html"/>
+        <id>https://abeldonate.github.io/projects/sikus/</id>
+        
+        <content type="html">&lt;h1 id=&quot;motivation&quot;&gt;Motivation&lt;&#x2F;h1&gt;
+&lt;p&gt;I have always been a music enthusiast from both, the viewpoint of interpretation as well as theoretical issues. The project of making a sikus from scratch captures the essence of both of them, since theoretical knowledge is required (but also non-essential) and I will end up with a new easy to play instrument.&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;design-of-the-sikus&quot;&gt;Design of the sikus&lt;&#x2F;h1&gt;
+&lt;p&gt;There are plenty of choices for the design of the instrument. The first one is the choice of the material. The most common material is the bamboo, for its abundance in the region of its origins, but they also can be made of cane, processed wood, plastic, and even glass. I made mine of cane due to its proximity.&lt;&#x2F;p&gt;
+&lt;p&gt;The next choice is the distribution of the tubes, which have a wide range of options. I suggest in the next pictures four types of them (the naming is not standard):&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;type-1-the-linear&quot;&gt;Type 1: The linear&lt;&#x2F;h2&gt;
+&lt;p&gt;The most common type of panflute is the linear one. Just one stripe of tubes with a heptatonic (not equal) distribution. This can be interpreted as the notes of the C Major scale, as well as any greek mode depending which note you are beginning with. Folkloric songs can be performed in this heptatonic scale, but it has some limitations such as the impossibility of scale transport and the lack of some notes of chromatic scale. &lt;&#x2F;p&gt;
+&lt;img src=&quot;figures&#x2F;type1.svg&quot;&gt;
+&lt;h2 id=&quot;type-2-the-compact&quot;&gt;Type 2: The compact&lt;&#x2F;h2&gt;
+&lt;p&gt;But, hold on!, we can make a trick to save space and make the sikus more compact by adding a lower stripe. Distances between notes now get narrower, but notes are a little bit trickier to play. Scale is still pentatonic.&lt;&#x2F;p&gt;
+&lt;img src=&quot;figures&#x2F;type2.svg&quot;&gt;
+&lt;h2 id=&quot;type-3-the-chromatic&quot;&gt;Type 3: The chromatic&lt;&#x2F;h2&gt;
+&lt;p&gt;If we are used to piano keys, we can arrange the tubes following the same distribution, achieving a chromatic sikus. This has two main advantages: any occidental piece of music (that uses chromatic scale, of course) can be interpreted provided it is in the same range and piano players will find the distribution very comfortable. However, we get rid of the original essence of the instrument and its ethnomusicological implications.&lt;&#x2F;p&gt;
+&lt;img src=&quot;figures&#x2F;type3.svg&quot;&gt;
+&lt;h2 id=&quot;type-4-the-chromatic-compact&quot;&gt;Type 4: The chromatic compact&lt;&#x2F;h2&gt;
+&lt;p&gt;We construct this variation by positioning the classical occidental twelve-notes chromatic scale in zig-zag alternating up and down as in the picture. We end up with a sikus in which we can perform every chromatic piece as in the type 3, but the flute is more compact and handle. I&#x27;m sure that very few people are used to this configuration, and the reason is hided in the harmony: two common harmonic intervals, 5th major and 4th major (3:2 and 4:3 resp.) lay in different arrays (one on the top and the other on the bottom or viceversa), hindering the performance.&lt;&#x2F;p&gt;
+&lt;img src=&quot;figures&#x2F;type4.svg&quot;&gt;
+&lt;h1 id=&quot;crafting&quot;&gt;Crafting&lt;&#x2F;h1&gt;
+&lt;h2 id=&quot;step-1-prepare-the-material&quot;&gt;Step 1: Prepare the material&lt;&#x2F;h2&gt;
+&lt;p&gt;The odyssey begins in a cane field like the picture. The first step is cutting the canes, peeling them and make the chunks that will correspond to each tube. In this stage precision is not very important, but better try to cut the chunks as large as possible, making the incision close to the natural joint of the cane as shown in the picture.&lt;&#x2F;p&gt;
+&lt;!---
+
+&lt;img src=&quot;images&#x2F;canefield.jpg&quot; width=&quot;40%&quot; height=&quot;50&quot;&gt; 
+&lt;img src=&quot;images&#x2F;canes.jpg&quot; width=&quot;40%&quot; height=&quot;50&quot;&gt;
+&lt;img src=&quot;images&#x2F;peeled.jpg&quot; width=&quot;40%&quot; height=&quot;50&quot;&gt;
+&lt;img src=&quot;images&#x2F;joint.jpg&quot; width=&quot;40%&quot; height=&quot;50&quot;&gt;
+&lt;img src=&quot;images&#x2F;pretubes.jpg&quot; width=&quot;40%&quot; height=&quot;50&quot;&gt;
+---&gt;
+&lt;img src=&quot;images&#x2F;mosaicstp1.png&quot; width=&quot;100%&quot; height=&quot;auto&quot;&gt;
+&lt;p&gt;Once we have the tubes, we let them dry. This part is important, since the tuning would suffer a wide change if we manage to finish the sikus now. Every material is different and, as far as I know, for professional bamboo panflutes the average time artisans let them dry is around 3 months, but I in my case I have spent 2 weeks.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;step-2-select-and-tune-the-canes&quot;&gt;Step 2: Select and tune the canes&lt;&#x2F;h2&gt;
+&lt;p&gt;Time to clean the tubes carefully, since they have impurities that would obstruct the sound. A stick surrounded by sandpaper will do the trick. Then we sand the orifice of the tube making it smooth, and by this point we should be able to play a clear sound in the tube! We repeat this process for all the tubes.&lt;&#x2F;p&gt;
+&lt;p&gt;Once we have all the tubes it&#x27;s time to classify them in order to set which final note will be tuned each one. I suggest first to set the lower ones, and going in increasing order selecting a target tone for each tube (target tone should be, of course, higher than current tone).&lt;&#x2F;p&gt;
+&lt;img src=&quot;images&#x2F;mosaicstep2.png&quot; width=&quot;100%&quot; height=&quot;auto&quot;&gt;
+&lt;p&gt;We then use the sand paper to adjust each tube to the desired tone. I have made the choice of the type 4 panflute.&lt;&#x2F;p&gt;
+&lt;img src=&quot;images&#x2F;tones.jpg&quot; width=&quot;100%&quot; height=&quot;auto&quot;&gt;
+&lt;h2 id=&quot;step-3-fine-details&quot;&gt;Step 3: Fine details&lt;&#x2F;h2&gt;
+&lt;p&gt;For a more comfortable position and clearer sound we can perform two operations in the orifice of each tube: &lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;sand the internal part of the orifice to make the sound smoother&lt;&#x2F;li&gt;
+&lt;li&gt;make a chamfer in the position of the mouth for performance comfort &lt;&#x2F;li&gt;
+&lt;li&gt;sand the bottom of the tube for aesthetic purposes&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h1 id=&quot;result&quot;&gt;Result&lt;&#x2F;h1&gt;
+&lt;p&gt;The way of assembling the tubes is actually very free and creative. I have chosen to do it with a glue gun because, you know, I am so shabby, but I would have liked to attach the tubes with a fancy cord like traditional panflutes. I place two canes in the middle of the two layers as a separator. This allows the air to flow freely when blowing in the first layer.&lt;&#x2F;p&gt;
+&lt;img src=&quot;images&#x2F;top.jpg&quot; width=&quot;100%&quot; height=&quot;auto&quot;&gt;
+&lt;p&gt;This is the final result:&lt;&#x2F;p&gt;
+&lt;img src=&quot;images&#x2F;final.jpg&quot; width=&quot;100%&quot; height=&quot;auto&quot;&gt;
+&lt;p&gt;For sharper details one could sand the glue and varnish the sikus.&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;comments-and-problems-encountered&quot;&gt;Comments and problems encountered&lt;&#x2F;h1&gt;
+&lt;p&gt;The sound is surprisingly acceptable, taking into account we have used regular canes instead of bamboo (that happens to be straighter, more regular and has better musical properties). It is a totally playable instrument, though I still have some performance difficulties, specially due to some irregularities of the orifices. &lt;&#x2F;p&gt;
+&lt;p&gt;In my version the lowest note is F#3, which makes the sikus a little bit more soprano than I would like it to be, but the largest cane that I encountered was an F#3.&lt;&#x2F;p&gt;
+&lt;p&gt;I hope this post encourage you to craft your own sikus in case you have entered for this reason, expanded your knowledge about sikus in case you have entered in search of information, or simply wasted 5 minutes reading some stuff a random guy have posted to internet because, you know, we need some distractions from the alienating world.&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>El Arte y el Atre</title>
+        <published>2023-07-10T00:00:00+00:00</published>
+        <updated>2023-07-10T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://abeldonate.github.io/thoughts/el-arte-y-el-atre/" type="text/html"/>
+        <id>https://abeldonate.github.io/thoughts/el-arte-y-el-atre/</id>
+        
+        <content type="html">&lt;p&gt;Siempre me ha gustado el uso de palabras carentes de significado que intenten aportar una nueva perspectiva al debate, evitando (aunque no eliminando) los vicios creados por la incapacidad del lenguaje de hacer fluir ideas de una conciencia a otra. Esta barrera, insuperable hasta la fecha, nos permite, sin embargo compartir pensamientos hasta un grado de abstracción suficiente como para poder crear un imaginario colectivo por medio de la introducción de ideas abstractas como el poder, las creencias, la superioridad, y, la idea más importante de la época moderna, el mercado.&lt;&#x2F;p&gt;
+&lt;p&gt;Presento la idea de atre como contraposición directa a la de la concepción clásica de arte. Si bien considero que el arte está directamente mediado por el mercado, el atre pretende ser su opuesto, planteado en un mundo donde la conciencia enajenada pueda extraer, de la mano de el pensamiento de cada individuo, los elementos que más significado tengan para este. No hay, por tanto, ningún elemento más allá de la conciencia del espectador que medie con el atre, ni la intencionalidad, ni la naturaleza, ni siquiera la mera existencia concreta de la obra. El atre no es ni deja de ser, vive en la conciencia de cada espectador.&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;h1 id=&quot;brevisimo-analisis-historico-de-la-evolucion-del-arte&quot;&gt;Brevísimo análisis histórico de la evolución del arte&lt;&#x2F;h1&gt;
+&lt;p&gt;Intentaré ordenar cronológicamente las distintas experiencias por época y por cultura, intentando recuperar ideas fuera de la órbita clásica&#x2F;occidental.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;antigua-grecia&quot;&gt;Antigua Grecia&lt;&#x2F;h3&gt;
+&lt;p&gt;De la mano de textos como los de Aristóteles sabemos que la palabra que más se ajusta al concepto presente de arte es la de &lt;em&gt;techne&lt;&#x2F;em&gt; (oficio, habilidad, técnica), significando &amp;quot;la capacidad de ejecutar algo con una comprensión apropiada&amp;quot;. Cabe destacar que la poesía y la música quedaban exentas de la cualidad artística, por pensarse productos fuera de la racionalidad que caracterizaba al arte. A este concepto de arte se ajustaban más disciplinas como la arquitectura, la pintura o la artesanía.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;china&quot;&gt;China&lt;&#x2F;h3&gt;
+&lt;p&gt;Es interesante estudiar como influye el confucianismo en la concepción del arte en la antigua China. El arte se concibe como un medio para capturar el enfoque filosófico de la vida que valoraban. Es por esta razón por la que la ornamentación en las obras es bastante austera, buscando la máxima confuciana de &amp;quot;la armonía con la realidad&amp;quot;. &lt;&#x2F;p&gt;
+&lt;h3 id=&quot;el-arte-en-la-corriente-marxista&quot;&gt;El arte en la corriente marxista&lt;&#x2F;h3&gt;
+&lt;p&gt;Todo análisis posible del arte dentro de la corriente marxista gira en torno al concepto de superestructura, siendo éste un elementos más dentro de ella. No es, pues, una mera parte del conjunto, sino que se encuentra en constante dialéctica con otros elementos que la componen, como la política, la cultura, la vida social, las formas jurídicas, religiosas, filosóficas, etc. El arte tiene, por tanto, una dependencia implícita de las condiciones materiales del momento histórico en el que nos encontremos, pero también sirve de revulsivo para crear esas condiciones.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;concepciones-actuales&quot;&gt;Concepciones actuales&lt;&#x2F;h3&gt;
+&lt;p&gt;Si nos remitimos únicamente a los organismos actuales oficialistas, la RAE entiende por arte, entre otras cosas, la &amp;quot;manifestación de la actividad humana mediante la cual se interpreta lo real o se plasma lo imaginado con recursos plásticos, lingüísticos o sonoros&amp;quot;. Mientras que el diccionario de Oxford la define como &amp;quot;the use of the imagination to express ideas or feelings, particularly in painting, drawing or sculpture&amp;quot;. &lt;&#x2F;p&gt;
+&lt;p&gt;Si bien es evidente que no hay un consenso en la concepción actual de la música, estas definiciones apuntan a que podemos observar ciertas similitudes en algunas de ellas: la existencia de un &amp;quot;artista&amp;quot;, la alabanza a la técnica, la objetividad del concepto o la valoración del mismo. &lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;h1 id=&quot;contraposicion-de-los-dos-conceptos&quot;&gt;Contraposición de los dos conceptos&lt;&#x2F;h1&gt;
+&lt;p&gt;Siempre he tenido una relación muy estrecha con la música. Desde muy joven he disfrutado, hasta donde se puede decir, de una visión un tanto utilitarista de la misma, usándola como elemento regulador del estado de ánimo o de forma contextual. Si bien no considero, ni juzgo, que sea la manera correcta de consumirla (siquiera que exista tal manera), he de decir que sigo satisfecho con el resultado que me aporta. He disfrutado tanto de la 3ª de Beethoven o de Taylor Swift como de una canción de hace 15 años que solo se encuentra en una página web de rap con menos de 1000 visualizaciones. Obviando las diferencias evidentes, lo que me interesa es el mecanismo por el cual el número de reproducciones es tan desorbitadamente dispar.&lt;&#x2F;p&gt;
+&lt;p&gt;Considero que cuando escucho una obra no estoy escuchando de forma directa la &amp;quot;esencia&amp;quot; de su autor, sino una mediación del mismo. Ninguna forma artística es libre mientras esté sometida a las ataduras de la forma mercantil de producción. El arte representa la obstrucción del formato, la barrera de la expresión humana, la imposibilidad de la transfusión de ideas entre conciencias. El atre carece de estos impedimentos, pues empieza y acaba en la misma conciencia del espectador.&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;h1 id=&quot;conclusion&quot;&gt;Conclusión&lt;&#x2F;h1&gt;
+&lt;p&gt;La motivación para hacer este artículo no es únicamente la interesante discusión que pueda surgir sobre la naturaleza y la concepción del arte, discusión que ha llenado bastantes libros de autores reconocidos, sino en dejar de lado todo lo que rodea a la idea de arte creando un marco práctico basado en la idea expuesta de atre pensando en futuros posts.&lt;&#x2F;p&gt;
+&lt;p&gt;Termino invitando a la reflexión con una frase que encontré en un cartel anónimo &amp;quot;la obligación de producir aliena la pasión por crear&amp;quot;.&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Filosofía de los memes</title>
+        <published>2023-01-30T00:00:00+00:00</published>
+        <updated>2023-01-30T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://abeldonate.github.io/thoughts/philosophy-memes/" type="text/html"/>
+        <id>https://abeldonate.github.io/thoughts/philosophy-memes/</id>
+        
+        <content type="html">&lt;style&gt;
+img{
+float:left;
+padding:5pt
+}
+&lt;&#x2F;style&gt;
+&lt;h1 id=&quot;disclaimer-inicial&quot;&gt;Disclaimer inicial&lt;&#x2F;h1&gt;
+&lt;p&gt;Este post no pretende hacer un estudio histórico o literario del género memístico. Su propósito principal es tratar el género desde un punto de vista puramente hermenéutico, desligando la obra de las posibles intencionalidades iniciales de su autor&#x2F;a. &lt;&#x2F;p&gt;
+&lt;p&gt;Me gusta pensar en la categoría meme como una nueva forma literaria, en cierto modo rompedor con la literatura anterior en cuanto al uso de nuevos recursos como un simbolismo iconográfico muy marcado, pero que sigue teniendo cierta continuidad como las referencias al contexto presente o pasado o el uso de recursos literarios como la aliteración, la metáfora o la hipérbole.&lt;&#x2F;p&gt;
+&lt;p&gt;Las subcategorías dentro del género son abrumadoramente amplias: desde las más &amp;quot;wholesome&amp;quot; (memes que fomentan los sentimientos afectivos hacia otras personas, animales u objetos), hasta los más &amp;quot;dank&amp;quot; (memes con referencias satíricas a comportamientos no considerados políticamente correctos), pasando por los memes &amp;quot;fast&amp;quot; (los creados temporalmente ad hoc, donde el contexto es muy importante). Cada subcategoría evoluciona a medida que se relaciona con su entorno, bebiendo de otras subcategorías y rechazando el material que no ha tenido una buena adaptación al público. Reflexionaremos más adelante sobre la relación con el público y el concepto de atre (leer el post de El arte y el atre). Otra de las subcategorías más importantes es la del &amp;quot;shitpost&amp;quot;, carecterizada por una estética marcadamente antiestética, consiguiendo así una dialéctica en la imágen en confrontación directa con las técnicas ilustrativas hasta la fecha.&lt;&#x2F;p&gt;
+&lt;p&gt;A continuación vemos algunos conceptos ejemplificados en memes concretos. &lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;h1 id=&quot;algunas-subcategorias&quot;&gt;Algunas subcategorías&lt;&#x2F;h1&gt;
+&lt;h2 id=&quot;shitpost&quot;&gt;Shitpost&lt;&#x2F;h2&gt;
+&lt;p&gt;No es el mero hecho de intentar advertir cualidades humanas en un animal por medio de la personificación, ni la misma atípica situación en escena del mismo. Lo que dota de forma (que no contenido) al shitpost es la relación de objetos que lo componen, sin ninguna importancia en los objetos. Cada objeto, cada elemento indivisible presente en la obra es de contenido nulo si no fuese por las relaciones que los atañen. Como he dicho anteriormente no es una relación intencionada por el autor, o, al menos, si lo es, importa bien poco. La importancia reside en las ideas que el espectador relacione (o no) al contemplar la obra, en las elucubraciones que uno hace al pensar como ha podido ser concebida, en el intento de desmistificar aquello que te es tan extraño y familiar al mismo tiempo.&lt;&#x2F;p&gt;
+&lt;p&gt;El shitpost, por tanto, es una inversión de la lógica, y, como tal, toma forma en la conciencia del espectador. Como defiendo en otro post (El arte y el atre) no tiene sentido analizar el atre por sus características técnicas, ni por sus virtudes &amp;quot;objetivas&amp;quot;, sino que depende de la lectura íntegra que haga la conciencia enajenada del espectador. Que el shitpost pueda o no triunfar como género (esto es, pueda ganar peso dentro del mercado del arte, que no el atre) es un hecho meramente independiente de que lo haga en mi conciencia.&lt;&#x2F;p&gt;
+&lt;img src=&quot;images&#x2F;juan.jpg&quot; width=&quot;45%&quot;&gt;
+&lt;img src=&quot;images&#x2F;aceituna.jpeg&quot; width=&quot;45%&quot;&gt;
+&lt;h2 id=&quot;pensamiento&quot;&gt;Pensamiento&lt;&#x2F;h2&gt;
+&lt;p&gt;Soy de los que piensa que no existe ninguna idea que no pueda ser formulada desde la categoría humorística. Es por eso que hay memes que, a expensas de buscar la risa terminan por producir una reflexión estimulante. La subcategoría que más me gustaría destacar es la que hace una reflexión pesimista, aunque certera de la realidad, unas palabras que invitan al pensamiento más profundo de por qué la sociedad está en este estadio y como la alienación pervierte la conciencia. Un par de frases consiguen arrancar una furia que nace de las entrañas del espectador más sensibilizado, y provoca ríos de pensamiento que desembocan en un lago de cada vez más y más dudas sobre la teoría y la praxis. Tiempo de reflexionar si la historia siempre va hacia delante como siempre nos han contado.&lt;&#x2F;p&gt;
+&lt;p&gt;Me resulta fascinante pensar también cómo esta categoría es capaz de deconstruirse, de dar la vuelta sobre sí misma, de reducirse tan inteligentemente sobre el concepto de la alienación. Haya o no calado el meme en nuestro constantemente bombardeado cerebro, el siguiente acto será el de hacer scroll para ver la siguiente pieza, un acto propio y natural de la reificación del ser que sufrimos. La magia, una vez más, de la contradicción en movimiento, de la dialéctica, aparece en los lugares más insospechados.&lt;&#x2F;p&gt;
+&lt;img src=&quot;images&#x2F;pensamiento.png&quot; width=&quot;100%&quot;&gt;
+&lt;h2 id=&quot;con-proposito&quot;&gt;Con propósito&lt;&#x2F;h2&gt;
+&lt;p&gt;Hasta ahora hemos hablado únicamente de la relación del espectador con el contenido, pero hemos supuesto que este espectador era único. Existen categorías como la de los memes con un propósito donde se involucran al menos dos personas en el proceso de espectación. Un agente es el que realiza la primera acción de enviar con un propósito la pieza, mientras que el otro la recibe. Observamos como se ve inalterada el atre que yace de la obra, pues tanto el primer agente como el segundo pueden interpretan el meme de acuerdo exclusivamente con sus propias ideas. Pese a que pueda parecer que el primer agente haga un intento de influenciar al segundo en la lectura, este dotaría en última instancia de un contexto único y personal a la pieza recibida.&lt;&#x2F;p&gt;
+&lt;p&gt;En la primera imagen pueden advertirse elementos propios de la categoría shitpost, pero he decidido ejemplificarla en esta categoría, ya que me resulta un claro ejemplo de un meme con propósito. &lt;&#x2F;p&gt;
+&lt;img src=&quot;images&#x2F;conproposito.png&quot; width=&quot;100%&quot;&gt;
+&lt;h2 id=&quot;contextuales&quot;&gt;Contextuales&lt;&#x2F;h2&gt;
+&lt;p&gt;Hay obras que refieren cierto conocimiento (y posicionamiento implícito) sobre una determinada coyuntura histórico-social, ya sea pasada, presente o futura. Esta es, quizá, la subcategoría más &amp;quot;targeted&amp;quot; en cuanto a un público determinado se refiere (con bastante solapamiento con la de pensamiento), generando aceptación o rechazo en función del espectador. Aunque en este caso hay una clara intención por parte del autor, considero más interesante analizarlo desde la óptica del atre. Desde la posición del espectador pueden suceder varios fenómenos, entre ellos destaco los siguientes:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Cámara de eco: al estar sometido exclusivamente a obras de cierto sector de la subcategoría puede llevar a un reforzamiento &amp;quot;virtual&amp;quot; de las ideas reflejadas sin ninguna formación o racionalización o reflexión sobre los conceptos tras las ideas señaladas.&lt;&#x2F;li&gt;
+&lt;li&gt;Satirización de la antítesis: es posible que el público consuma un sector de la subcategoría que no se corresponde con sus ideas, ya sea de forma directa o a través de un metameme que pretende precisamente riduculizar el meme original.&lt;&#x2F;li&gt;
+&lt;li&gt;Motivación formativa: la obra sirve como motivación para el estudio del contexto histórico-social de la misma. &lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;No obstante, no es necesario la existencia de esa polarización en el público de la obra, pudiendo esta reflejar hechos históricos más o menos documentados y aceptados por amplia parte de la población, pese a que ese hecho en particular pueda favorecer o enarbolar alguna ideología particular.&lt;&#x2F;p&gt;
+&lt;img src=&quot;images&#x2F;contextuales.png&quot; width=&quot;100%&quot;&gt;
+&lt;hr &#x2F;&gt;
+&lt;h1 id=&quot;conclusion&quot;&gt;Conclusión&lt;&#x2F;h1&gt;
+&lt;p&gt;Es curioso observar como cambia la concepción de determinados géneros literarios generacionalmente. Cómo, por ejemplo, el cómic marcó a toda una generación, al igual que lo hace ahora el meme. No pretendo hacer una defensa empedernida del género, al contrario, pues rompería todos los ideales y fundamentos del concepto de atre, desde el cual disfruto tanto analizando cada obra.&lt;&#x2F;p&gt;
+&lt;p&gt;Queda por ver qué senda seguirá este género en el futuro, o más bien qué sendas, pues cada subcategoría marca su propio paso y se distingue bien del resto por medio de ese público, previsiblemente aún mediado por el mercado.&lt;&#x2F;p&gt;
+&lt;p&gt;Termino dejando, por completitud, un compendio de memes &lt;a href=&quot;https:&#x2F;&#x2F;tinyurl.com&#x2F;completememecollection&quot;&gt; aquí&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Coxeter Matroids</title>
+        <published>2022-09-07T00:00:00+00:00</published>
+        <updated>2022-09-07T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://abeldonate.github.io/lectures/coxeter-matroids/" type="text/html"/>
+        <id>https://abeldonate.github.io/lectures/coxeter-matroids/</id>
+        
+        <content type="html">&lt;p&gt;In the following pdf you will find my lecture on the Coxeter Matroids.&lt;&#x2F;p&gt;
+&lt;p&gt;This lecture was the final project of a summer research course in Centre de Recerca Matemática (Mathematical center of research) in Barcelona&lt;&#x2F;p&gt;
+&lt;li classs=&quot;inline-block&quot;&gt;
+    &lt;a  target=&quot;_blank&quot;
+        class&quot;align-middle&quot;
+        href=&quot;PresentationCoxeter.pdf&quot;&gt;Coxeter Matroids&lt;&#x2F;a&gt; 
+&lt;&#x2F;li&gt;</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Kollontai - La prostitución y las formas de combatirla</title>
+        <published>2022-09-07T00:00:00+00:00</published>
+        <updated>2022-09-07T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://abeldonate.github.io/readings/kollontai-prostitucion/" type="text/html"/>
+        <id>https://abeldonate.github.io/readings/kollontai-prostitucion/</id>
+        
+        <content type="html">&lt;p&gt;Discurso de 1921.&lt;&#x2F;p&gt;
+&lt;p&gt;Nuestra república de trabajadores no ha pasado ninguna ley dirigida a la eliminación de la prostitución, y no ha emitido una formulación rica y científica del punto de vista de que la prostitución es algo que daña a la comunidad. Nosotros sabemos que la prostitución es un mal, incluso reconocemos que en este momento, en este período transicional que tiene
+muchos problemas, la prostitución se ha vuelto muy extendida.&lt;&#x2F;p&gt;
+&lt;p&gt;Nuestra república obrera soviética ha heredado la prostitución del pasado capitalista
+burgués. La prostitución surgió con los primeros estados como la sombra inevitable de la
+institución oficial del matrimonio, que fue diseñado para preservar los derechos a la
+propiedad privada y para garantizar la propiedad hereditaria a través de una línea de
+herederos legítimos. La institución del matrimonio hizo posible evitar que la riqueza que
+había sido acumulada fuese dispersada entre un gran número de “herederos”.&lt;&#x2F;p&gt;
+&lt;p&gt;En los siglos XIX y XX la prostitución
+asumía proporciones alarmantes por primera vez. La venta del trabajo femenino, que está
+indisolublemente conectada a la venta del cuerpo femenino, incrementa constantemente
+llevando a una situación donde la respetada esposa de un trabajador, y no sólo la niña
+abandonada y “deshonrada”, se une a las filas de las prostitutas: una madre por el bien de
+sus hijos, o una joven como Sonya Marmeladova por el bien de su familia. La hipócrita moral de la sociedad burguesa fomenta la
+prostitución por la estructura de su economía de explotación, mientras que al mismo
+tiempo cubriendo despiadadamente y con desprecio a cualquier chica o mujer que se vea
+obligada a tomar este camino.&lt;&#x2F;p&gt;
+&lt;p&gt;La prostitución, bajo el capitalismo, provee a los
+hombres con la oportunidad de tener relaciones sexuales sin tener que asumir la
+responsabilidad de cuidar materialmente a las mujeres hasta la tumba.&lt;&#x2F;p&gt;
+&lt;p&gt;A la ciencia burguesa y a sus
+academias les encanta probar al mundo que la prostitución es un fenómeno patológico, es decir, que es el resultado de las anormalidades de ciertas mujeres, tal como ciertas personas son criminales por naturaleza, algunas mujeres, según argumentan, son prostitutas por naturaleza. Sin importar dónde o cómo estas mujeres podrían haber vivido, habrían recurrido a una vida de pecado. Los marxistas y los académicos más consientes, doctores y estadísticos han mostrado claramente que la idea de “disposición innata” es falsa. La prostitución está por encima de un fenómeno social; está estrechamente conectada con la posición de necesidad de una mujer y su dependencia
+económica del hombre en el matrimonio y la familia. Las raíces de la prostitución son
+económicas.&lt;&#x2F;p&gt;
+&lt;p&gt;Después de todo, a pesar de que las principales causas de la prostitución - la
+propiedad privada y la política de fortalecimiento de la familia - han sido eliminadas, otros
+factores se encuentran todavía en vigor. Vivir sin techo, la negligencia, malas condiciones
+de vivienda, la soledad y bajos salarios para las mujeres están todavía con nosotros.
+Nuestro sistema productivo está todavía en un estado de colapso, y la dislocación de la
+economía nacional continúa. Estas y otras condiciones económicas y sociales llevan a las
+mujeres a prostituir sus cuerpos.&lt;&#x2F;p&gt;
+&lt;p&gt;La clase obrera condena a la prostituta no porque ella les da su cuerpo a
+muchos hombres sino porque, como la esposa legal que se queda en casa, no hace ningún trabajo útil para la sociedad. La prostitución no es compatible con la república de trabajadores soviética por una otra razón: no contribuye al desarrollo y fortalecimiento del carácter básico de clase del proletariado y de su nueva moralidad. Un hombre que compra los favores de una mujer no la ve como una camarada o como una persona
+con iguales derechos.&lt;&#x2F;p&gt;
+&lt;p&gt;¿Podemos nosotros que defendemos los intereses de la clase obrera definir a las relaciones que son temporales y no registradas como delito? Por supuesto que no
+podemos. La libertad en las relaciones entre los sexos no contradice la ideología
+comunista. El interés del colectivo obrero no es afectado por la naturaleza temporal o perdurable de las relaciones o si están basadas en el amor, en la pasión o en la atracción
+física. Una relación es perjudicial y extraña al colectivo solo si la negociación material entre los sexos está involucrada, solo cuando los cálculos mundanos son un sustituto de la atracción mutua. Si la negociación toma la forma de prostitución o de una relación matrimonial legal no es lo importante. &lt;&#x2F;p&gt;
+&lt;p&gt;No profesaré la forma que asumirán el matrimonio o las relaciones entre los sexos en el
+futuro. Pero de una cosa no hay dudas: bajo el comunismo toda dependencia de las
+mujeres sobre los hombres y todas las formas de cálculos materiales encontrados en el
+matrimonio moderno estarán ausentes. Las relaciones sexuales estarán basadas en un
+saludable instinto de reproducción impulsado por el abandono del amor juvenil, la pasión
+ferviente, por una llamarada de atracción física o por una suave luz de armonía intelectual y emocional.&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Castellet - Lectura de Marcuse</title>
+        <published>2022-07-24T00:00:00+00:00</published>
+        <updated>2022-07-24T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://abeldonate.github.io/readings/castellet-lectura-de-marcuse/" type="text/html"/>
+        <id>https://abeldonate.github.io/readings/castellet-lectura-de-marcuse/</id>
+        
+        <content type="html">&lt;h1 id=&quot;introduccion&quot;&gt;Introducción&lt;&#x2F;h1&gt;
+&lt;p&gt;El pensamiento inicial de Marcuse puede englobarse en la gran corriente centro europea de los decenios segundo y tercero del siglo XX junto a Lukács, Benjamin, Mannheim, Honekheimer y Adorno caracterizado por ahondar en las raíces dialécticas del materialismo histórico. Esto les lleva a repensar a través de Marx la filosofía de Hegel. Son autores con gran componente hebraica y &lt;strong&gt;mesiánica&lt;&#x2F;strong&gt; sobre el pensamiento de tradición racionalista. &lt;&#x2F;p&gt;
+&lt;p&gt;En el caso de Marcuse predomina la &lt;strong&gt;nostalgia del futuro&lt;&#x2F;strong&gt;. Encontramos la utopía en función del punto de vista desde el cual hay que considerar y juzgar el presente. Hoy existe la posibilidad real de una transformación en el entorno técnico y natural que conducirá a nuevas formas individuales y sociales del vivir sobre la tierra. Tenemos en las manos todas las fuerzas intelectuales y materiales necesarias para realizar una sociedad libre. Es posible la enajenación de la pobreza. &lt;&#x2F;p&gt;
+&lt;p&gt;Sin embargo no tenemos las ideas suficientemente claras sobre las consecuencias que implicará la eliminación de la miseria, de la pobreza y el trabajo. Significa más una ruptura que una continuación con la historia pasada.&lt;&#x2F;p&gt;
+&lt;p&gt;Como Marx se comprometió demasiado con el concepto de la continuidad del progreso el final de la utopía obliga a los marxistas a replantearse la definición de socialismo  de libertad y a preguntarse si la teoría del socialismo según Marx pertenece acaso a un estadio, hoy superado en algunos países.&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;i-los-condicionamientos-historicos-del-pensamiento-de-marcuse&quot;&gt;I Los condicionamientos históricos del pensamiento de Marcuse&lt;&#x2F;h1&gt;
+&lt;p&gt;Nacido en Berlín en 1898. Familia judía. Especialista en Hegel. Influido por Marx y Freud. Abandonó la política en 1919 tras el asesinato de Luxemburgo y Liebneck. Tras el ascenso de Hitler huye a EEUU.&lt;&#x2F;p&gt;
+&lt;p&gt;El núcleo de su obra es la reflexión sobre Hegel, Marx y Freud representada por los cuatro libros:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Reason and revolution (1941)&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Eros and civilization (1955)&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Soviet Marxism (1958)&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;One-Dimensional Man (1964)&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;La obra que más le influyo en su pensamiento inicial fue &lt;em&gt;Historia y conciencia de clases&lt;&#x2F;em&gt;, de Lukacs. Marcuse desde EEUU y Lukacs desde la URSS se encomendaron el trabajo de revalorizar a Hegel.&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;ii-la-reflexion-sobre-hegel&quot;&gt;II La reflexión sobre Hegel&lt;&#x2F;h1&gt;
+&lt;p&gt;El pensamiento dialéctioco empieza por la constatación de que el mindo no es libre. Cualquier modo de pensamiento que excluya de su lógica la contradicción encierra una lógica defectuosa. COmprender la realidad significa comprender lo qeu las cosas son, lo cual exige, a la vez, la no-aceptación de su apariencia. &amp;quot;La verdad es el conjunto y el conjunto es falso&amp;quot;.&lt;&#x2F;p&gt;
+&lt;p&gt;Marx critica a Hegel en nombre de la razón, de una razón dotada de posibilidad correctiva  sobre sí misma. Hegel anticipa, casi literalmente, el mensaje del &lt;em&gt;Parsifal&lt;&#x2F;em&gt; de Wagner: &amp;quot;La mano que inflige la herida es también la mano que la cura&amp;quot;. El proletariado, en tanto que clase social antagónica de la burguesía, demuestra que la Historia no puede ser expresión de armonía. La existencia del proletariado proporciona un testimonio vivo del hecho de que la verdad no se ha realizado. La historia y la realidad social niegan a la filosofía. La crítica de la sociedad no puede hacerse desde la filosofía, sino que se convierte en objeto de la acción social e histórica.&lt;&#x2F;p&gt;
+&lt;p&gt;El objetivo de la filosofía negativa será, pues, descubrir la realidad del drama de la existencia humana, agravado por la necesidad de reconstruir y volver a hallar la libertad en el proceso enajenador de la Historia.&lt;&#x2F;p&gt;
+&lt;p&gt;El pensamiento es, constitutivamente, utopía, y de ningún modo un medio para producir, distribuir y divulgar utopías para uso de los consumidores que, en el ámbito de la sociedad actual, requieran soluciones provisionales o se caligiquen a sí mismos como revolucionarios.&lt;&#x2F;p&gt;
+&lt;p&gt;La primera forma de manifestación del pensamiento dialéctico tiene que ser forzosamente la de la negación absoluta: protesta contra la no-libertad, rebeldía contra una realidad reificada. La libertad, por lo tanto es, esencialmente negativa por su carácter de negación de aquella negatividad enajenadora y represiva que viene constituida por la positividad del estado existente.&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;iii-la-reflexion-sobre-marx&quot;&gt;III La reflexión sobre Marx&lt;&#x2F;h1&gt;
+&lt;p&gt;Marx impregna todos los libros de Marcuse. No es solo un punto de referencia constante, sino el eje sobre el que gira todo el confunto de la especulación. En &lt;em&gt;El marxismo soviético&lt;&#x2F;em&gt; ha contrapuesto Marcuse las teorías de Marx a las realizaciones de la URSS y las criticas a los dirigentes soviéticos que se desprende de este libro nos da la medida de la fidelidad de Marcuse al pensamiento de Marx.&lt;&#x2F;p&gt;
+&lt;p&gt;En la sociedad capuralista acrual el hompre se encuentra progresivamente enajenado, se ve obligado a renunciar a la propia personalidad espiritual y tiende cada vez más a quedar reificado, objetivado como mercancía. La sociedad capitalista es negatica porque esta fundada sobre el trabajo enafenador; pero también es positiva porque encierra en sí misma la posibilidad de su negación.&lt;&#x2F;p&gt;
+&lt;p&gt;Marcuse no pretende presentarse más que como fiel continuador de las ideas motrices del pensamiento de Marx, al que considera traicionado en parte por los realizadores del marxismo soviético. Marcuse insiste en su obra en un tema que considera central: la aspiración a la &lt;strong&gt;felicidad&lt;&#x2F;strong&gt;. Acepta a Marx en su totalidad, pero quiere subrayar aquel temario del derecho a la felicidad, muchas veces voluntariamente puesto en olvido.&lt;&#x2F;p&gt;
+&lt;p&gt;Violenta al hombre toda realización social que no tenga en cuenta que la riqueza verdadera sólo la proporciona, como decía Marx, el tiempo libre. Entonces, no es ya el tiempo de trabajo, sino el tiempo libre lo que mide la riqueza.&lt;&#x2F;p&gt;
+&lt;p&gt;La genialidad política de Lenin y sus limitaciones teóricas consisten en haber establecido los cimientos materiales del edificio socialista sin ninguna pretensión de modificar su concepción teórica.&lt;&#x2F;p&gt;
+&lt;p&gt;El marxismo soviético vive de realidades que continúa negando en teoría: el papel desempeñado por los campesinos en la revolución rusa, los cambios estructurales del proletariado occidental, la solidez económica del mundo capitalista y, más tarde, el hecho de que han accedido al socialismo países cuya revolución no se ha hecho desde un sistema de capitalismo avanzado, sino desde un estadio de subdesarrollo absoluto: CHina, Corea, Vietnam, Cuba, etc.&lt;&#x2F;p&gt;
+&lt;p&gt;Para Marx y Engels, la &lt;strong&gt;ideología&lt;&#x2F;strong&gt; es una ilusión (Schein) necesaria resultado de una organización social de la producción que se aparece al hombre como un sistema de leyes y fuerzas independientes objetivas. En tanto que reflejo de la base social real, la ideología participa de la verdad, pero ésta se expresa bajo una forma errónea. Las ideas de la clase dominante  se implantan como ideas dominantes y pretenden a una calidez universal. Los últimos reductos ideológicos de protesta (arte, literatura, filosofía) resulten los más perseguidos por lo que tienen de repudiación del orden establecido.&lt;&#x2F;p&gt;
+&lt;p&gt;La teoría soviética implica:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Negarse a admitir la posibilidad de una transformación explosiva bajo el socialismo establecido. &lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Desaparición de la negación de la negación en el vocabulario dialéctico&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;En resumen, el marxismo soviético representa el parón de la dialéctica en interés del orden vigente, y la ideología obedecerá al parón del socialismo real.&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;iv-la-reflexion-sobre-freud&quot;&gt;IV La reflexión sobre Freud&lt;&#x2F;h1&gt;
+&lt;p&gt;La proposición de Freud según la cual la civilización se basa en la subyugación permanente de los instintos humanos se ha acogido como cosa natural.&lt;&#x2F;p&gt;
+&lt;p&gt;La renuncia a la satisfacción y su aplazamiento son las premisas del progreso. La felicidad - decía Freud - no es ningún valor cultural.&lt;&#x2F;p&gt;
+&lt;p&gt;Marcuse no está de acuerdo con las conclusiones de Freud y cree que, precisamente, la felicidad es un valor cultural.&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;v-desde-el-hombre-unidimensional-al-estado-totalitario&quot;&gt;V Desde el hombre unidimensional al Estado totalitario&lt;&#x2F;h1&gt;
+&lt;p&gt;El concepto de hombre que surge de la teoría freñudiana es la acusación más irrefutable contra la civilización occidental. La historia de la humanidad es la historia de la lucha por la conquista de la libertad; Freud dice que la historia del hombre es la historia de sus represiones.&lt;&#x2F;p&gt;
+&lt;p&gt;El induviduo existe, como si dijeramos, en &lt;strong&gt;dos dimensiones diferentes&lt;&#x2F;strong&gt;:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;El &lt;strong&gt;inconsciente&lt;&#x2F;strong&gt; regido por el placer y los procesos más primarios.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Principio de la &lt;strong&gt;realidad&lt;&#x2F;strong&gt;, medio natural y humano.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;La sustitución del principio del placer por el principio de la realidad es el gran aciontecimiento traumático del hombre. El hombre civilizado no quiere reconocer al propio inconsciente.&lt;&#x2F;p&gt;
+&lt;p&gt;Resumimos ahora las características de la sociedad del capitalismo organizado, de donde ha emergido el hombre unidimensional. &lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Bienes y servicios se producen y consumen con una satisfacción creciente.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Se mantiene la ilusión de un pluralismo de opiniones que, sin embargo, no toca el fondo de las cuestiones o de los problemas básicos.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Tendencia a la integración de las clases sociales a través de la esfera del consumo.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;La cultura material y la intelectual, las esferas privadas y las públicas, los sentimientosy la razón, la lengua y el pensamiento, se adaptan a las exigencias del aparato y, en la medida dque son exigencias se transforman en neesidades, modalidades de comportamiento y de expresión, aspiraciones de los individuos.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Del hombre unidimensional hemos pasado a la sociedad unidimensional donde todo se integra en el sistema y el sistema lo es todo.&lt;&#x2F;p&gt;
+&lt;p&gt;La ciencia, a causa de sus métodos y conceptos, ha realizado el proyecto de un universo donde el dominio sobre la naturaleza ha quedado estrechamente ligado al dominio sobre el hombre. Le mindo tiende a convertierse en la sustancia de una administración tecnocrática total, que envuelve a los propios administradores.&lt;&#x2F;p&gt;
+&lt;p&gt;El &lt;strong&gt;estado de bienestar&lt;&#x2F;strong&gt; no proporciona más libertad, sino que la restringe en tanto que restringe el tiempo libre, la cantidad y calidad de los productos y los servicios. Asistimos a una debilitación de la libertad y de la oposición al sistema, por culpa de un proceso social objetivo donde la producción y la distribución de una cantidad creciente de productos y de servicios crean una actitud, en parte racional, de conformidad con la tecnología.&lt;&#x2F;p&gt;
+&lt;p&gt;La &lt;strong&gt;unidimensionalidad&lt;&#x2F;strong&gt; se provoca desde el poder, a través de la propaganda, de la uniformidad de la enseánza y de la unilateralidad de la información. El resultado es la imposibilidad de conseguir el nivel de libertad necesario a fin de realizarse personalmente.&lt;&#x2F;p&gt;
+&lt;p&gt;La unidimensionalidad soviética también nos explica su fácil adaptación a la política de coexistencia con el capitalismo. Tanto la deformación que ha sufrido el socialismo respecto a su idea originaria, como la transformación fundamental que ha experimentado el capitalismo, son explicables, en gran parte, por esta coexistencia.&lt;&#x2F;p&gt;
+&lt;p&gt;Uno de los problemas importantes del socialismo de la URSS consiste en el hecho de que se encuentre dependiendo estrechamente de otra gran potencia como EEUU, lo que le hace falsear los ideales del internacionalismo proletario.&lt;&#x2F;p&gt;
+&lt;p&gt;La URSS ha impedido el normal y libre desarrollo de muchos pueblos oprimidos. No solo ha permitido la agresión directa, sino que también ha permitido mantener bajo uno u otro extensas áreas geográficas por razones opuestas (más agresivas las americanas, más defensivas las soviéticas), pero con resultados desastrosos para los pueblos. Los dirigentes han olvidado los principios de Marx y Engels de la estructura dialéctica del mundo.&lt;&#x2F;p&gt;
+&lt;p&gt;Del &lt;strong&gt;stajanovismo&lt;&#x2F;strong&gt; al &lt;strong&gt;zhdanovismo&lt;&#x2F;strong&gt; la movilización de los obreros e intelectuales se ha manifestado en un solo sentido: producir más en una sola dirección. El resultado ha sido la eliminación de la negación y de las contradicciones.&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;vi-de-la-utopia-a-la-realidad&quot;&gt;VI De la utopía a la realidad&lt;&#x2F;h1&gt;
+&lt;h1 id=&quot;conclusion&quot;&gt;Conclusión&lt;&#x2F;h1&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Fromm - El arte de amar</title>
+        <published>2022-07-19T00:00:00+00:00</published>
+        <updated>2022-07-19T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://abeldonate.github.io/readings/fromm-el-arte-de-amar/" type="text/html"/>
+        <id>https://abeldonate.github.io/readings/fromm-el-arte-de-amar/</id>
+        
+        <content type="html">&lt;h1 id=&quot;1-el-amor-es-un-arte&quot;&gt;1. ¿El amor es un arte?&lt;&#x2F;h1&gt;
+&lt;p&gt;La tesis que se defiende es que el arte es, mas que una sensación agradable, un arte que requiere de conocimiento y esfuerzo.&lt;&#x2F;p&gt;
+&lt;p&gt;La mayoría de gente de nuestra cultura sostiene que el hecho de &lt;strong&gt;ser estimado&lt;&#x2F;strong&gt; es una mezcla de popularidad y sex appeal.&lt;&#x2F;p&gt;
+&lt;p&gt;La felicidad del hombre moderno cosiste en el placer de mirar aparadores de las tiendas, en la compra, y, en general, todo ello que tenga la posibilidad de adquirir.&lt;&#x2F;p&gt;
+&lt;p&gt;La sensación de enamoramiento solo se desarrolla en relación a los productos humanos que entran dentro de nuestras posibilidades de intercambio. El objeto debe ser deseable desde el punto de vista de su valor social y también debe ser deseable teniendo en cuenta mis potenciales patentes y ocultos. &lt;&#x2F;p&gt;
+&lt;p&gt;Si dos personas que se desconocen superan de golpe la barrera que los separa y se sienten al unísono, este momento es de los más estimulantes y excitantes de la vida. Este tipo de amor es, por naturaleza, de poca duración.&lt;&#x2F;p&gt;
+&lt;p&gt;No existe ninguna otra actividad que se inicie con tantas expectativas y ánimo y fracase tan a menudo como la del amor.&lt;&#x2F;p&gt;
+&lt;p&gt;El primer es tomar conciencia de que el amor es un arte, y, como tal, su proceso de aprendizaje se divide en teoría y práctica.&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;2-la-teoria-del-amor&quot;&gt;2. La teoría del amor&lt;&#x2F;h1&gt;
+&lt;h2 id=&quot;1-el-amor-como-respuesta-al-problema-de-la-existencia-humana&quot;&gt;1. El amor como respuesta al problema de la existencia humana&lt;&#x2F;h2&gt;
+&lt;p&gt;Partimos de que la experiencia de aislamiento no solo provoca angustia, sino que es, en realidad, la fuente de toda angustia.&lt;&#x2F;p&gt;
+&lt;p&gt;Hoy todas las actividades están rutinizadas y prefabricadas.&lt;&#x2F;p&gt;
+&lt;p&gt;La solución plena está basada en el logro de la &lt;strong&gt;unión interpersonal&lt;&#x2F;strong&gt;. El deseo de la unión interpersonal es el impulso más poderoso del hombre.&lt;&#x2F;p&gt;
+&lt;p&gt;Nos estamos pudiendo referir a dos tipos de unión:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Unión simbiótica (inmadura). Esta puede ser una unión pasiva (masoquismo) o activa (sadismo)&lt;&#x2F;li&gt;
+&lt;li&gt;Unión como solución al problema de la existencia (madura). Unión bajo la condición de preservar la propia integridad e individualidad. El amor capacita a una persona para vencer su sentimiento de aislamiento y le permite ser ella misma manteniendo su integridad. Dos seres que terminan por ser uno pero siguen siendo dos. &lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;El amor es una actividad, no un afecto pasivo (dar, mas que recibir). En la esfera material, dar significa ser rico. No es rico quien tiene mucho, sino quien da mucho.&lt;&#x2F;p&gt;
+&lt;p&gt;El &lt;strong&gt;cuidado&lt;&#x2F;strong&gt; y la &lt;strong&gt;responsabilidad&lt;&#x2F;strong&gt; implican otro aspecto del amor. Ser responsable significa ser capaz de responder y estar dispuesto a hacerlo. La responsabilidad podría degenerar fácilmente en dominio y posesión si no interviniese otro factor importante, el &lt;strong&gt;respeto&lt;&#x2F;strong&gt;, materializado en la capacidad de ser consciente de la individualidad única de la otra persona. El &lt;strong&gt;conocimiento&lt;&#x2F;strong&gt; de esta persona es un factor clave también.&lt;&#x2F;p&gt;
+&lt;p&gt;El problema de conocer al Hombre es el problema religioso de conocer a Dios.&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;En la teología occidental se intenta conocer a Dios por medio del pensamiento&lt;&#x2F;li&gt;
+&lt;li&gt;En el misticismo uno renuncia a la vía del pensamiento para conocer a Dios, y lo reemplaza por la experiencia de la unión con Dios.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;2-amor-entre-padres-e-hijos&quot;&gt;2. Amor entre padres e hijos&lt;&#x2F;h2&gt;
+&lt;p&gt;Angustia implícita en la separación de la madre y de la existencia intrauterina.&lt;&#x2F;p&gt;
+&lt;p&gt;Para la mayoría de los niños entre los 8 y medio y 10 años el problema consiste en ser estimados. Antes de esta edad el niño todavía no es capaz de estimar, responde con alegría y gratitud al amor que se le da. Cando se supera la niñez, las necesidades de otra persona pasan a ser tan importantes como las suyas.&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Amor &lt;strong&gt;inmaduro&lt;&#x2F;strong&gt;: amo porque me aman, te amo porque te necesito.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Amor &lt;strong&gt;maduro&lt;&#x2F;strong&gt;: me aman porque amo, te necesito porque te amo.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Cuando surgió la propiedad privada y uno de los hijos debía heredar, el padre comenzó a seleccionar el hijo a quien dejaría las propiedades. El amor de padre es &lt;strong&gt;condicional&lt;&#x2F;strong&gt;: te estimo porque cumples mis aspiraciones y tus deberes, porque eres como yo.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;3-los-objetos-del-amor&quot;&gt;3. Los objetos del amor&lt;&#x2F;h2&gt;
+&lt;p&gt;La mayoría de personas creen que el amor esta constituido por el objeto, no por la facultad. De hecho creen que el hecho de amar a una sola persona es prueba de la intensidad de su amor. Esta actitud puede ser comparada con la de una persona que quiere pintar, pero en lugar de emprender este arte sostiene que hay que esperar el objeto adecuado y que pintará maravillosamente bien cuando lo encuentre.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;a) Amor fraternal&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;El amor fraternal es el sentido de responsabilidad, de cuidado, de respeto y de conocimiento  en relación a cualquier otro ser humano, el deseo de promover su vida. Es la clase de amor de la que habla la biblia en &amp;quot;&lt;em&gt;Amarás al prójimo como a ti mismo&lt;&#x2F;em&gt;&amp;quot;.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;b) Amor maternal&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;El amor de madre es una afirmación incondicional de la vida del infante y de sus necesidades.&lt;&#x2F;p&gt;
+&lt;p&gt;Solo la mujer que estima realmente, que más feliz dando que recibiendo, que está firmemente arraigada a la propia existencia, puede ser una madre amante cuando el niño se encuentra en el proceso de separación.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;c) Amor erótico&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;El anhelo de fusión completa con una sola persona. Por su naturaleza es exclusivo y no universal. La atracción sexual crea, por un momento, la ilusión de la unión, pero sin amor esta unión deja a los desconocidos tan separados como podían estarlo antes. En este amor hay una exclusividad que falta en el fraternal y maternal.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;d) amor a uno mismo&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Para Freud el amor a uno mismo es idéntico al narcisismo. El narcisismo es la primera etapa del desarrollo humano y la persona que es su vida posterior vuelve a su etapa narcisista es incapaz de amar. &lt;&#x2F;p&gt;
+&lt;p&gt;Sofisma: &amp;quot;El amor a otros y el amor a uno mismo se excluyen recíprocamente&amp;quot;.&lt;&#x2F;p&gt;
+&lt;p&gt;No solamente los otros, sino nosotros mismos somos el objeto de nuestros sentimientos y actitudes. En cualquier induviduo capaz de  estimar a los demás encontraremos la capacidad de estimarse a si mismo.&lt;&#x2F;p&gt;
+&lt;p&gt;Es evidente que las personas egoístas son incapaces de estimar a los demás, pero tampoco son capaces de estimarse a ellos mismos.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;e) Amor a Dios&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;La forma religiosa del amor surge de la necesidad de vencer la soledad y de conseguir la unión. Dios representa el valor supremo, el más deseado.&lt;&#x2F;p&gt;
+&lt;p&gt;Es determinante el paso de las religiones matriarcales a las patriarcales. La sociedad patriarcal es jerárquica, la igualdad de los hermanos se transforma en competencia y en lucha.&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;3-el-amor-y-su-desintegracion-en-la-sociedad-occidental-contemporanea&quot;&gt;3. El amor y su desintegración en la sociedad occidental contemporánea&lt;&#x2F;h1&gt;
+&lt;p&gt;El amor es un fenómeno relativamente raro y que en su lugar se encuentran numerosas formas de pseudo-amor, que son, en realidad, variantes de la desintegración del amor.&lt;&#x2F;p&gt;
+&lt;p&gt;Las relaciones humanas son, esencialmente, la de autómatas alienados, en las cuales cada uno basa su seguridad en la permanencia cerca del rebaño y no diferir en el pensamiento, sentimiento o acción. La soledad no puede ser vencida. Nuestra civilización ofrece muchos paliativos que ayudan a ignorar conscientemente esta soledad: &lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;La rutina del trabajo burocrático y mecánico.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;La industria del entretenimiento.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;La satisfacción de comprar cosas nuevas e intercambiarlas por otras.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Se encuentra, por fin, en en amor un remedio para la soledad.&lt;&#x2F;p&gt;
+&lt;p&gt;El amor no es el resultado de la satisfacción sexual , sino que la felicidad sexual es resultado del amor. Según Freud, sin embargo, el amor es básicamente un fenómeno sexual y la experiencia fraternal es un producto del amor sexual.&lt;&#x2F;p&gt;
+&lt;p&gt;Freud asume una concepción del hombre basada en el capitalismo: el ser humano es &lt;strong&gt;competitivo&lt;&#x2F;strong&gt; por naturaleza. La sociedad le impide actuar de acuerdo con sus deseos.&lt;&#x2F;p&gt;
+&lt;p&gt;Marx en su materialismo histórico, de acuerdo al cual ni el cuerpo ni el instinto, así como la necesidad de alimento o de posesión, constituyen la clave de la comprensión del ser humano, sino la totalidad del proceso vital de este, su &lt;strong&gt;práctica de la vida&lt;&#x2F;strong&gt;. La satisfacción plena de todas las necesidades instintivas no solamente no constituye una base para la felicidad, ni tan solo garantiza la salud mental.&lt;&#x2F;p&gt;
+&lt;p&gt;La descripción de H. S. Sullivan se refiere a la experiencia de la personalidad alienada y mercantil del siglo XX. El &lt;strong&gt;&amp;quot;egoisme à deux&amp;quot;&lt;&#x2F;strong&gt; de dos personas que estiman sus intereses comunes y se unen para hacer frente a un mundo hostil y alienado.&lt;&#x2F;p&gt;
+&lt;p&gt;Una forma de pseudo-amor que suele experimentarse es el amor de &lt;strong&gt;idolatría&lt;&#x2F;strong&gt;. Es propio de quien no ha llegado al nivel correspondiente de sensación de identidad. Otra forma de pseudo-amor es el amor &lt;strong&gt;sentimental&lt;&#x2F;strong&gt;. Este amor es propio de las novelas y películas, y lo experimentamos con conciencia de que la otra persona no es real. Reproduce unos cánones del amor fuertemente arraigados en la sociedad.&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;4-la-practica-del-amor&quot;&gt;4. La práctica del amor&lt;&#x2F;h1&gt;
+&lt;p&gt;Estimar es una experiencia personal que solo podemos llevar a cabo por y para nosotros mismos. La práctica de un arte requiere las siguientes cosas:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Disciplina&lt;&#x2F;strong&gt;. Buenas prácticas para la disciplina son levantarse pronto regularmente, dedicar tiempo diario a meditar, leer, escuchar música y caminar y no permitirse, dentro de ciertos límites, vías escapistas como novelas policíacas y películas y no comer ni beber mucho.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Concentración&lt;&#x2F;strong&gt;. En nuestra cultura la concentración es todavía más rara que la disciplina. Somos consumidores, siempre deseando consumir más. Esta falta de concentración se manifiesta en la dificultad para estar a solas con nosotros mismos. Sin hablar, beber, leer, fumar, es imposible para la mayoría de personas. El paso más importante para aprender a concentrarse es aprender a estar solo con uno mismo sin leer ni escuchar, fumar ni beber. Estar concentrado significa vivir plenamente el presente y no pensar en la tarea próxima mientras realizo la inmediata.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Paciencia&lt;&#x2F;strong&gt;. Si uno aspira a obtener resultados rápidos no se aprende nunca ningún arte. Al hombre moderno le cuesta mucho llevar a cabo la paciencia tanto como la concentración o la disciplina.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;La facultad de pensar objetivamente es la razón. La actitud emocional que corresponde a la razón es la &lt;strong&gt;humildad&lt;&#x2F;strong&gt;. Ya que amor depende de la ausencia relativa de narcisismo y requiere el desarrollo de la humildad, de la objetividad y de la razón.&lt;&#x2F;p&gt;
+&lt;p&gt;La práctica del arte de estimar requiere la práctica de la &lt;strong&gt;fe&lt;&#x2F;strong&gt;. Aquí fe se entiende como fe racional: la convicción arraigada en la experiencia del pensamiento o sentimiento. La fe racional sale de la actividad intelectual y emocional productiva. La historia de la ciencia está llena de ejemplos de fe en la razón y en sus visiones de la verdad. La fe en otros es la culminación de la fe en la humanidad.&lt;&#x2F;p&gt;
+&lt;p&gt;Nuestra organización social y económica está basada en el hecho de que cada uno busca conseguir ventajas para si mismo de acuerdo al principio de egoísmo. Concluimos que hablar de amor en esta sociedad es participar en el fraude general. Solo un mártir o un loco puede amar en el mundo actual y que, por lo tanto, todo examen del amor no es otra cosa que una prédica. El principio sobre el que se basa la sociedad capitalista y el principio del amor son incompatibles. &lt;&#x2F;p&gt;
+&lt;p&gt;El espíritu de una sociedad centrada en la producción y la avidez de artículos es de una naturaleza que solo en inconformista puede defender con éxito. Tener fe en la posibilidad del amor como fenómeno social, y no solo como excepcional e individual, es tener una fe racional basada en la comprensión de la misma naturaleza del hombre.&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Badiou - In Praise of Mathematics</title>
+        <published>2022-07-06T00:00:00+00:00</published>
+        <updated>2022-07-06T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://abeldonate.github.io/readings/badiou-in-praise-of-mathematics/" type="text/html"/>
+        <id>https://abeldonate.github.io/readings/badiou-in-praise-of-mathematics/</id>
+        
+        <content type="html">&lt;h1 id=&quot;introduction&quot;&gt;Introduction&lt;&#x2F;h1&gt;
+&lt;p&gt;Philosophy was born in Greece because in that country there were some totally new ideas about mathematics, art, politics and emotions. Then, Badiou suggests that philosophy really only develops in this system of 4 &amp;quot;truths&amp;quot;: science, art, politics and love&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;i-mathematics-must-be-saved&quot;&gt;I. Mathematics must be saved&lt;&#x2F;h1&gt;
+&lt;p&gt;Mathematics requires to become a Subject whose freedom, far from being opposed to discipline, demands it. When you work on a mathematical problem, the discovery of the solution is not some sort of blind wandering but rather the determination of a path that is always lined by the obligations of overall consistency and demonstrative rules.&lt;&#x2F;p&gt;
+&lt;p&gt;Lacan said that &amp;quot;desire and law are not opposites, but dialectically identical&amp;quot;. Mathematics, for its part, combines intuition and proof in a unique way, in which philosophy has a lot to say.&lt;&#x2F;p&gt;
+&lt;p&gt;Sartre was the one who revealed philosophy to Badiou, but there was an incompatibility with mathematics: &amp;quot;Science is zilch; morality&#x27;s an asshole&amp;quot;.&lt;&#x2F;p&gt;
+&lt;p&gt;Majority of mathematicians elitist relationships with the discipline. There is a need for philosophy as well as a democratization of both subjects. They should be taught a lot sooner.&lt;&#x2F;p&gt;
+&lt;p&gt;So the divergence between mathematics and philosophy also stems from the fact that philosophy, the reactionary figure of “the new philosopher,” has undergone an incredible trivialization of its status. In mathematics, this is not the case.&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;ii-philosophy-and-mathematics-or-the-story-of-an-old-couple&quot;&gt;II. Philosophy and Mathematics, or the Story of an Old Couple&lt;&#x2F;h1&gt;
+&lt;p&gt;Mathematics is part of democratic thought, which moreover appeared in Greece at the same time. There is a close link between mathematics, democracy and philosophy.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Spinoza&lt;&#x2F;strong&gt; said that &amp;quot;If mathematics hadn&#x27;t existed, man would have remained in ignorance, in particular, because he would have continued to explain everything by final causes, mythologies, or the influence of supernatural powers&amp;quot;&lt;&#x2F;p&gt;
+&lt;p&gt;There are three types of knowledge according to Spinoza:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Sensory and imaginative representation (ordinary ignorance)&lt;&#x2F;li&gt;
+&lt;li&gt;Methodical conceptual knowledge (mathematical proofs)&lt;&#x2F;li&gt;
+&lt;li&gt;Intuitive knowledge of God, philosophical knowledge&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;&lt;strong&gt;Kant&lt;&#x2F;strong&gt; said that &amp;quot;mathematics is necessary in order for philosophy to exist&amp;quot;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Kant&#x27;s&lt;&#x2F;strong&gt; conception of mathematics is an &lt;em&gt;a prioric&lt;&#x2F;em&gt; conception. This means that the organization of mathematical thinking does not originate in concrete experience but is prior to it. According to Kant, if everyone is in agreement about a mathematical proof, it&#x27;s not because it refers to anything that touches the thing in itself or the real world; it&#x27;s because the structure of the human mind obeys a single paradigm, such that what will be a proof for one person will be a proof for another. Badiou thinks this point of view as a sophisticated version of the formalist thesis&lt;&#x2F;p&gt;
+&lt;p&gt;(página 21 principio)&lt;&#x2F;p&gt;
+&lt;p&gt;There has been a break between mathematics and philosophy. Philosophical romanticism, from Hegel to Sartrian existentialism, moved away from analytical and demonstrative rationality. There were also institutional reasons, mainly the separation between disciplines.&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;iii-what-is-mathematics-about&quot;&gt;III. What is Mathematics About&lt;&#x2F;h1&gt;
+&lt;p&gt;Badiou points out that the question of the definition of mathematics is not a mathematical question, it is a philosophical one.&lt;&#x2F;p&gt;
+&lt;p&gt;There are two main orientations:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Realist or platonic&lt;&#x2F;strong&gt;. Holds that mathematics is an ontology. Mathematics is part of the thinking of what there is. There are structures that recur in everything that exists. This even explains why physics could not exist without mathematics. This path was taken by mathematicians like Gödel and Erdős.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Formalist&lt;&#x2F;strong&gt;. Holds that mathematics is merely a language game whose rigor cannot claim to have an ongoing relationship with empirical reality. This path was taken by some analytical philosophers such as Wittgenstein. &lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Badiou chooses the realist current, holding that mathematics structures &amp;quot;exist&amp;quot; in a certain way. The position of Badiou is that mathematics is simply the science of &lt;strong&gt;being qua being&lt;&#x2F;strong&gt;, or what philosophers traditionally call ontology. What it means to think only in the being is to think only in the &lt;strong&gt;structure&lt;&#x2F;strong&gt;, the abstraction of the characteristics. This ontology can be developed for its own sake.&lt;&#x2F;p&gt;
+&lt;p&gt;If we switch back to philosophy and think about the Hegelian system, we encounter that the negation of negation is not at all identical to the original affirmation. Its logic is therefore nonclassical. We cannot, then, link this philosophy with the axioms of mathematics everyone of us agrees with.&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;iv-an-attempt-at-a-mathematics-based-metaphysics&quot;&gt;IV. An attempt at a Mathematics-based Metaphysics&lt;&#x2F;h1&gt;
+&lt;p&gt;Badiou calls &lt;em&gt;trues&lt;&#x2F;em&gt; (in plural) particular creations with universal value: works of art, scientific theories, politics of emancipation, passionate loves...&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Scientific theories are truths about being itself (mathematics) or the natural laws of the worlds we can have experimental knowledge.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Political truths concern the organization of societies, laws of collective life and universal principles such as freedom and equality.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Artistic truths are related to formal consistency of finished works that sublimate what our senses perceive.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Truth of love relates to the dialectical power contained in the experiencing of the world, not from the point of view of the One, but from the point of view of the Two, and hence with a radical acceptance of the other person.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;The two properties these categories fulfill are &lt;strong&gt;absolute&lt;&#x2F;strong&gt; and &lt;strong&gt;eternal&lt;&#x2F;strong&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;Mathematics offers what contemporary relativism doesn&#x27;t: the possibility of an absolute ontology. An absolute ontology is the existence of a universe of reference, a site for the thinking of being qua being, having four characteristics:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Motionless or changeless. Any rational thought is itself foreign to that category&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Completely intelligible in its being on the basis of nothing. Non-atomic.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Can only be described in terms of axioms. No experience or construction. Non-empirical&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Principle of maximality: any intellectual entity whose existence can be inferred without contradiction from the axioms that prescribe it exists by this very fact.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Badious&#x27; thesis: &amp;quot;Being is multiplicity. THh rational theory of the different possible forms of the multiple is set theory. A truth, like everything that exists, is also multiple.&amp;quot;&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;v-does-mathematics-bring-happiness&quot;&gt;V. Does Mathematics Bring Happiness?&lt;&#x2F;h1&gt;
+&lt;p&gt;Mathematics is wrapped in a sort of mystery, but it&#x27;s ultimately a mystery in broad daylight. So it is true that there is the experience of a strange pleasure. If you have understood and grasped something it is because you have seen something you had never seen before, and it is this ineffable pleasure that will remain.&lt;&#x2F;p&gt;
+&lt;p&gt;The real roots of happiness lie in subjective commitment to a truth procedure (remember the categories art, science, politics and love).&lt;&#x2F;p&gt;
+&lt;p&gt;Badiou thinks that philosophy has no other objective than this: to help anyone understand, in the sphere of his or her own life experience, what a happy direction in life is. By doing philosophy you are freeing your Subject from the passive or empty life.&lt;&#x2F;p&gt;
+&lt;p&gt;What is this happiness that&#x27;s greater than the petty pleasures available in stores? Is there happiness greater than those pleasures? That&#x27;s the big question of philosophy. Our societies, domesticated by Capital and commodity fetishism, say that there isn&#x27;t. But philosophy says that we can open much larger windows onto this profit-driven outside. We can, as Plato&#x27;s famous allegory has it, get out of the cave.&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;conclusion&quot;&gt;Conclusion&lt;&#x2F;h1&gt;
+&lt;p&gt;How can we get people to discover (or rediscover) mathematics? How can get them to love it? The notion of a problem solved plays an important role in the task. It encourages the children to face a problem and get interested in it.&lt;&#x2F;p&gt;
+&lt;p&gt;First of all, an important key to motivation is to present problems of history of mathematics. For example, the question Socrates raised to a farmer: &amp;quot;Given you a square of land, how do you construct another square that double its area?&amp;quot;. After a trial and error discussion finally the farmer was able to solve the puzzle.&lt;&#x2F;p&gt;
+&lt;p&gt;The second point is to be armed with philosophy. What is interesting about mathematics is to wonder what mathematics is. It&#x27;s known that three-year-old children are far better metaphysicians than eighteen-year-old ones, because they wonder about all the questions of metaphysics. &lt;&#x2F;p&gt;
+&lt;p&gt;Philosophy is still an endangered discipline in the final years of school and mathematics a deplorable operator of social selection.&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Lenin - Estado y Revolución</title>
+        <published>2022-07-06T00:00:00+00:00</published>
+        <updated>2022-07-06T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://abeldonate.github.io/readings/lenin-estado-y-revolucion/" type="text/html"/>
+        <id>https://abeldonate.github.io/readings/lenin-estado-y-revolucion/</id>
+        
+        <content type="html">&lt;p&gt;Lenin escribió la obra en agosto de 1917, entre la revolución de febrero y la de octubre.&lt;&#x2F;p&gt;
+&lt;p&gt;Es un estudio del caracter histórico-científico del marxismo, que lejos de caer en el utopismo, prefieren estudiar las expepriencias previas (revoluciones de 1848-1851) a hacer predicciones sobre la construcción concreta de la sociedad en un futuro comunista. Marx y Engels rara vez han dado lineas maestras de la teoría de estado.&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;1-la-sociedad-de-clases-y-el-estado&quot;&gt;1. La sociedad de clases y el Estado&lt;&#x2F;h1&gt;
+&lt;p&gt;&lt;em&gt;[Engels] El Estado no es, en modo alguno, un poder impuesto desde fuera a la sociedad; ni es tampoco &amp;quot;la realidad de la idea moral, la imagen y la realidad de la razón&amp;quot;, como afirma Hegel. El Estado es, más bien, un producto de la sociedad al llegar a una determinada fase de desarrollo&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Crítica al programa Kautsikiano de no destrucción al Estado.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;em&gt;[Engels] El sufragio universar es el índice que sirve para medir la madurez de la clase obrera. No puede ser más nni será nunca más, en el Estado actual&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;El estado burgués no se &amp;quot;extingue&amp;quot;, es &amp;quot;destruido&amp;quot; en la revolución. Es el Estado proletario el que se &amp;quot;extingue&amp;quot;.&lt;&#x2F;p&gt;
+&lt;p&gt;Lenin está a favor de la república democrática como forma de estado dentro del capitalismo, pero todo estado ni es libre ni es popular.&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;2-el-estado-y-la-revolucion-la-experiencia-de-los-anos-1848-a-1851&quot;&gt;2. El Estado y la revolución. La experiencia de los años 1848 a 1851&lt;&#x2F;h1&gt;
+&lt;p&gt;El oportunismo hoy imperante edica en sis partidos obreros a los representantes mejor pagados, apartados de las masas.&lt;&#x2F;p&gt;
+&lt;p&gt;La burocracia y el ejercito permanente son un parásito adherido al cuerpo de la sociedad burguesa.&lt;&#x2F;p&gt;
+&lt;p&gt;Marx no descubre la lucha de clases, sino que hace las siguientes observaciones:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;La existencia de clases solo va unida a determinadas fases históricas de producción&lt;&#x2F;li&gt;
+&lt;li&gt;La lucha de clases conduce necesariamente a la dictadura del proletariado&lt;&#x2F;li&gt;
+&lt;li&gt;Esta dictadira es un tránsito hacia la abolición de las clases&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h1 id=&quot;3-el-estado-y-la-revolucion-la-experiencia-de-la-comuna-de-paris-de-1871-el-analisis-de-marx&quot;&gt;3. El Estado y la revolución. La experiencia de la Comuna de París de 1871. El análisis de Marx&lt;&#x2F;h1&gt;
+&lt;p&gt;Marx saludó la revolución proletaria de la Comuna con entusiasmo, al contrario que Plejanov, que lo catalogó de movimiento &lt;em&gt;extemporáneo&lt;&#x2F;em&gt;. Tras la experiencia de la Comuna se reedita el &lt;em&gt;Manifiesto Comunista&lt;&#x2F;em&gt; por estar anticuado en ciertos puntos. Ahora se tiene una experiencia revolucionaria como sujeto de estudio.&lt;&#x2F;p&gt;
+&lt;p&gt;La revolución burguesa de 1905 - 1907 fue, no obstante, una revolución popular. Esto contrasta con las revoluciones europeas de 1871, deonde el proletariado no formaba parte de esta.&lt;&#x2F;p&gt;
+&lt;p&gt;El Manifiesto Comunista propone &lt;em&gt;[Manifiesto comunista] sustituir la máquina del Estado, una vez destruida, por la organización del proletariado como clase dominante, por la conquista de la democracia&lt;&#x2F;em&gt;. Marx espera que la experiencia revolucionaria del movimiento de masas determine las formas concretas que tendría dicha organización. &lt;&#x2F;p&gt;
+&lt;p&gt;La antítesis del imperio es la Comuna.&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;El primer decreto de la comuna fue la supresión del ejército permanente para sustituirlo por el pueblo armado. (Implica también reducción de costes):&lt;&#x2F;li&gt;
+&lt;li&gt;La comuna estaba formada por los consejeros municipales elegidos por sufragio universal. Revocables en todo momento.&lt;&#x2F;li&gt;
+&lt;li&gt;Todos los cargos tenían el sueldo de un obrero.&lt;&#x2F;li&gt;
+&lt;li&gt;Destrucción de las fuerzas de opresión espiritual (iglesia)&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Desde el momento en el que es la mayoría del pueblo la que reprime por si misma, ya no hace falta una fuerza especial de represión. La Comuna no debe ser una corporación parlamentaria, sino una &lt;strong&gt;corporación de trabajo&lt;&#x2F;strong&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;em&gt;[Marx] No se trata de destruir la unidad de la nación, sino por el contrario, de organizarla mediante un régimen comunal. La unidad de la nación debía convertirse en una realidd mediante la destrucción de esta unidad, pero quería ser independiente de la nación y estar situado por encima de ella.&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;En los pasajes de Marx no hay ni rastro de federalismo. Marx discrepa con Proudhon y Bakunin en este aspecto. Ve el federalismo como una derivación pequeñoburguesa del anarquismo.&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;4-continuacion-aclaraciones-complementarias-de-engels&quot;&gt;4. Continuación. Aclaraciones complementarias de Engels&lt;&#x2F;h1&gt;
+&lt;p&gt;En &lt;em&gt;La cuestión de la vivienda&lt;&#x2F;em&gt;, Engels pone ya a contribución la experiencia de la Comuna. En la obra enfatiza la supresión del contraste entre ciudad y campo. El Estado Proletario ordenará requisar viviendas y expropiar edificios. La transición a un Estado de cosas en que sea posible asignar las viviendas gratuitamente se halla vinculada a la extinción del Estado.&lt;&#x2F;p&gt;
+&lt;p&gt;En este periodo se producen varios enfrentamientos teóricos entre marxistas y anarquistas. Los primeros están a favor de las armas para tomar el poder, mientras una facción importante de los segundos (los llamados antiautoritarios) negaban toda autoridad.&lt;&#x2F;p&gt;
+&lt;p&gt;Entre los bolcheviques no habrá quien se oponga al cosejo de Engels y Marx.&lt;em&gt;[Engels] La comuna no era ya un Estado en el verdadero sentido de la palabra&lt;&#x2F;em&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;El error más generalizado está en la afirmación reformista-burguesa de que el capitalismo monopolista de Estado no es ya capitalismo, puede llamarse ya &lt;strong&gt;socialismo de estado&lt;&#x2F;strong&gt; y otras cosas por el estilo.&lt;&#x2F;p&gt;
+&lt;p&gt;La inmensa mayoría de los jefes oficiales del partido socialdemócrata alemán resultaron ser encubridores del absolutismo.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;em&gt;[Engels] Si hay algo indudable es que nuestro partido y la clase obrera sólo pueden llegar al poder baho la forma política de la &lt;strong&gt;república democrática&lt;&#x2F;strong&gt;&lt;&#x2F;em&gt;. La república democrática es el acceso más próximo a la dictadura del proletariado.&lt;&#x2F;p&gt;
+&lt;p&gt;Marx y Engels defienden el cnetralismo democrático, la república única e indivisible. Considera la república federativa, bien como excepción, bien como transición de la monarquía a la república centralista. Engels no concibe en modo alguno el centralismo democrático en el sentido burocrático con que emplean este concepto los ideólogos burgueses o los anarquistas. El centralismo no excluye, ni mucho menos, esa amplia autonomía local que, en la defensa voluntaria de la unidad del Estado por las &lt;strong&gt;comunas&lt;&#x2F;strong&gt; y las regiones, elimina en absoluto todo burocratismo y toda manía de ordenar desde arriba.&lt;&#x2F;p&gt;
+&lt;p&gt;La socialdemocrácia alemana con su oportunismo, declara que la religión es &lt;em&gt;asundo de incumbencia privada&lt;&#x2F;em&gt;. Renuncia a la tarea del partido de luchar contra el opio religioso que embrutece al pueblo.&lt;&#x2F;p&gt;
+&lt;p&gt;Según la concepción filosófica, el Estado es la &lt;strong&gt;realización de la idea&lt;&#x2F;strong&gt;, el reino de Dios sobre la tierra. De aquí nace una veneración supersticiosa del Estado.&lt;&#x2F;p&gt;
+&lt;p&gt;Hay una inexactitud científica en la denominación &lt;strong&gt;socialdemocracia&lt;&#x2F;strong&gt;. En todos los artículos se emplea la palabra &lt;strong&gt;comunista&lt;&#x2F;strong&gt; y no socialdemócrata, pues por aquel entonces socialdemócratas se llamaban los proudhonistas en Francia y Lassalleanos en Alemania.&lt;&#x2F;p&gt;
+&lt;p&gt;La democracia no es idéntica a la subordinación del la minoría a la mayoría. Democracia es el Estado que reconoce la subordinación de la minoría a la mayoría, es decir, una organización llamada a ejercer la violencia sistemática de una clase contra otra.&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;5-las-bases-economicas-de-la-extincion-del-estado&quot;&gt;5. Las bases económicas de la extinción del Estado&lt;&#x2F;h1&gt;
+&lt;p&gt;La explicación más detallada de este tema se desarrolla en &lt;em&gt;Critica al Programa de Gotha&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Podría parecer que Marx es mucho más partidario del Estado que Engels. Mientras Engels propone borrar la palabra estado y sustituirla por comunidad, Marx habla incluso de Estado futuro de la sociedad comunista.&lt;&#x2F;p&gt;
+&lt;p&gt;La libertad de la sociedad capitalista sigue siendo lo que era la libertad en las antiguas repúblicas de Grecia: libertad para los esclavistas. Los esclavos asalariados modernos viven tan agobiados por la penuria y la miseria que no están para democracias.&lt;&#x2F;p&gt;
+&lt;p&gt;Nosotros no somos utipistas y no negamos que sea posible que algunos sujetos cometan excesos, como tampoco negamos la necesidad de reprimirlos. Pero esta represión la podría llevar a cabo el pueblo armado en lugar de un cuerpo especial de represión. La causa social más importante de los excesos es la explotación de las masas, la penuria y miseria de estas. Eliminando este factor se reducirán los excesos, y con ello el Estado.&lt;&#x2F;p&gt;
+&lt;p&gt;Marx rechaza la idea lassalleana de que, bajo el socialismo el obrero reciba integramente el fruto de su trabajo. Debe haber una parte para gastos públicos, reserva, ampliación de maquinaria, etc. Marx distingue dos fases del comunismo:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Primera fase&lt;&#x2F;strong&gt; (o socialismo). En esta fase todavía se conservan estructuras sociales heredadas del capitalismo, por lo que sería imposible la implantación de un sistema comunista. Cada individuo al ejecutar cierto trabajo recibe la parte del tiempo de trabajo socialmente necesario empleado. No obstante las personas no son todas iguales y no tienen las mismas necesidades. Esta fase no puede proporcionar todavía igualdad ni justicia, pero no será posible la explotación del hombre por el hombre.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Segunda fase&lt;&#x2F;strong&gt; (o comunismo). Mientras exista el Estado no existe la libertad. Cuando haya libertad no habrá Estado. La base económica para la extinción del estado se dará cuando desaparezca en contraste entre trabajo manual e intelectual. Este contraste no se puede suprimir simpremente con socializar los medios de producción.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;La democracia tiene una enorme importancia en la lucha de la clase obrera contra los capitalistas por su liberación. Pero la democracia no es para nada un límite insuperable. Democracia significa &lt;strong&gt;igualdad&lt;&#x2F;strong&gt;, pero solo &lt;strong&gt;igualdad formal&lt;&#x2F;strong&gt;. &lt;&#x2F;p&gt;
+&lt;p&gt;Cuando todos hayan aprendido a dirigir y dirijan en realidad por su cuenta el registro, entonces el escapar del control del pueblo será inevitable.&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;6-el-envilecimiento-del-marxismo-por-los-oportunistas&quot;&gt;6. El envilecimiento del marxismo por los oportunistas&lt;&#x2F;h1&gt;
+&lt;p&gt;En el capítulo se discuten algunos episodios de disputa entre marxistas y anarquístas, socialchovinistas, socialdemócratas, etc. Se cuestiona la actitud evasiva frente a la revolución, el oportunismo y el completo envilecimiento del marxismo por parte de teóricos como Plejánov o Kautsky.&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Polémica de Plejánov con los anarquistas&lt;&#x2F;strong&gt;. Los anarquistas intentaban reivindicar como suya la Comuna, sin comprender sus enseñanzas y la substitución que se hizo del Estado burgués al Proletario.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Polémica de Kautsky con los oportunistas.&lt;&#x2F;strong&gt; Kautsky cae en la vergonzosa defensa del socialchovinismo durante la Gran Guerra. Kausky refuta con todo detalle el ideario Bernsteiniano, pero se deja la parte más importante, la de la destrucción del Estado. Kautsky no comprendió la diferencia entre parlamentarismo burgués y democratismo proletario.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;strong&gt;Polémica de Kautsky con Pannekoek&lt;&#x2F;strong&gt;. Pannekoek, que residía el ala más izquierdista junto a Luxemburgo, se levantó contra Kautsky defendiendo el ala revolucionaria. Es Pannekoek quien representa al marxismo frente a Kautsky. El pensamiento de Kautsky no va mas allá de un gobierno dispuesto a hacer concesiones al proletariado. &lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Test for markdown format</title>
+        <published>2022-01-20T00:00:00+00:00</published>
+        <updated>2022-01-20T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://abeldonate.github.io/blog/blog-with-image/" type="text/html"/>
+        <id>https://abeldonate.github.io/blog/blog-with-image/</id>
+        
+        <content type="html">&lt;h1 id=&quot;h1-heading-8&quot;&gt;h1 Heading 8-)&lt;a class=&quot;zola-anchor&quot; href=&quot;#h1-heading-8&quot; aria-label=&quot;Anchor link for: h1-heading-8&quot;&gt;🔗&lt;&#x2F;a&gt;&lt;&#x2F;h1&gt;
+&lt;h2 id=&quot;h2-heading&quot;&gt;h2 Heading&lt;a class=&quot;zola-anchor&quot; href=&quot;#h2-heading&quot; aria-label=&quot;Anchor link for: h2-heading&quot;&gt;🔗&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;h3 id=&quot;h3-heading&quot;&gt;h3 Heading&lt;a class=&quot;zola-anchor&quot; href=&quot;#h3-heading&quot; aria-label=&quot;Anchor link for: h3-heading&quot;&gt;🔗&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
+&lt;h4 id=&quot;h4-heading&quot;&gt;h4 Heading&lt;a class=&quot;zola-anchor&quot; href=&quot;#h4-heading&quot; aria-label=&quot;Anchor link for: h4-heading&quot;&gt;🔗&lt;&#x2F;a&gt;&lt;&#x2F;h4&gt;
+&lt;h5 id=&quot;h5-heading&quot;&gt;h5 Heading&lt;a class=&quot;zola-anchor&quot; href=&quot;#h5-heading&quot; aria-label=&quot;Anchor link for: h5-heading&quot;&gt;🔗&lt;&#x2F;a&gt;&lt;&#x2F;h5&gt;
+&lt;h6 id=&quot;h6-heading&quot;&gt;h6 Heading&lt;a class=&quot;zola-anchor&quot; href=&quot;#h6-heading&quot; aria-label=&quot;Anchor link for: h6-heading&quot;&gt;🔗&lt;&#x2F;a&gt;&lt;&#x2F;h6&gt;
+&lt;h2 id=&quot;horizontal-rules&quot;&gt;Horizontal Rules&lt;a class=&quot;zola-anchor&quot; href=&quot;#horizontal-rules&quot; aria-label=&quot;Anchor link for: horizontal-rules&quot;&gt;🔗&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;hr &#x2F;&gt;
+&lt;hr &#x2F;&gt;
+&lt;hr &#x2F;&gt;
+&lt;h2 id=&quot;typographic-replacements&quot;&gt;Typographic replacements&lt;a class=&quot;zola-anchor&quot; href=&quot;#typographic-replacements&quot; aria-label=&quot;Anchor link for: typographic-replacements&quot;&gt;🔗&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;p&gt;Enable typographer option to see result.&lt;&#x2F;p&gt;
+&lt;p&gt;(c) (C) (r) (R) (tm) (TM) (p) (P) +-&lt;&#x2F;p&gt;
+&lt;p&gt;test.. test... test..... test?..... test!....&lt;&#x2F;p&gt;
+&lt;p&gt;!!!!!! ???? ,,  -- ---&lt;&#x2F;p&gt;
+&lt;p&gt;&amp;quot;Smartypants, double quotes&amp;quot; and &#x27;single quotes&#x27;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;emphasis&quot;&gt;Emphasis&lt;a class=&quot;zola-anchor&quot; href=&quot;#emphasis&quot; aria-label=&quot;Anchor link for: emphasis&quot;&gt;🔗&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;p&gt;&lt;strong&gt;This is bold text&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;This is bold text&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;em&gt;This is italic text&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;em&gt;This is italic text&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;del&gt;Strikethrough&lt;&#x2F;del&gt;&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;blockquotes&quot;&gt;Blockquotes&lt;a class=&quot;zola-anchor&quot; href=&quot;#blockquotes&quot; aria-label=&quot;Anchor link for: blockquotes&quot;&gt;🔗&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Blockquotes can also be nested...&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;...by using additional greater-than signs right next to each other...&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;...or with spaces between arrows.&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;h2 id=&quot;lists&quot;&gt;Lists&lt;a class=&quot;zola-anchor&quot; href=&quot;#lists&quot; aria-label=&quot;Anchor link for: lists&quot;&gt;🔗&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;p&gt;Unordered&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Create a list by starting a line with &lt;code&gt;+&lt;&#x2F;code&gt;, &lt;code&gt;-&lt;&#x2F;code&gt;, or &lt;code&gt;*&lt;&#x2F;code&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Sub-lists are made by indenting 2 spaces:
+&lt;ul&gt;
+&lt;li&gt;Marker character change forces new list start:
+&lt;ul&gt;
+&lt;li&gt;Ac tristique libero volutpat at&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;ul&gt;
+&lt;li&gt;Facilisis in pretium nisl aliquet&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;ul&gt;
+&lt;li&gt;Nulla volutpat aliquam velit&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;Very easy!&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Ordered&lt;&#x2F;p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Consectetur adipiscing elit&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Integer molestie lorem at massa&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;You can use sequential numbers...&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;...or keep all the numbers as &lt;code&gt;1.&lt;&#x2F;code&gt;&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;p&gt;Start numbering with offset:&lt;&#x2F;p&gt;
+&lt;ol start=&quot;57&quot;&gt;
+&lt;li&gt;foo&lt;&#x2F;li&gt;
+&lt;li&gt;bar&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;h2 id=&quot;code&quot;&gt;Code&lt;a class=&quot;zola-anchor&quot; href=&quot;#code&quot; aria-label=&quot;Anchor link for: code&quot;&gt;🔗&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;p&gt;Inline &lt;code&gt;code&lt;&#x2F;code&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Indented code&lt;&#x2F;p&gt;
+&lt;pre style=&quot;background-color:#fafafa;color:#80cbc4;&quot;&gt;&lt;code&gt;&lt;span&gt;&#x2F;&#x2F; Some comments
+&lt;&#x2F;span&gt;&lt;span&gt;line 1 of code
+&lt;&#x2F;span&gt;&lt;span&gt;line 2 of code
+&lt;&#x2F;span&gt;&lt;span&gt;line 3 of code
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;p&gt;Block code &amp;quot;fences&amp;quot;&lt;&#x2F;p&gt;
+&lt;pre style=&quot;background-color:#fafafa;color:#80cbc4;&quot;&gt;&lt;code&gt;&lt;span&gt;Sample text here...
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;p&gt;Syntax highlighting&lt;&#x2F;p&gt;
+&lt;pre data-lang=&quot;js&quot; style=&quot;background-color:#fafafa;color:#80cbc4;&quot; class=&quot;language-js &quot;&gt;&lt;code class=&quot;language-js&quot; data-lang=&quot;js&quot;&gt;&lt;span style=&quot;font-style:italic;color:#7c4dff;&quot;&gt;var &lt;&#x2F;span&gt;&lt;span style=&quot;color:#6182b8;&quot;&gt;foo &lt;&#x2F;span&gt;&lt;span style=&quot;color:#39adb5;&quot;&gt;= &lt;&#x2F;span&gt;&lt;span style=&quot;font-style:italic;color:#7c4dff;&quot;&gt;function &lt;&#x2F;span&gt;&lt;span style=&quot;color:#39adb5;&quot;&gt;(&lt;&#x2F;span&gt;&lt;span style=&quot;color:#f76d47;&quot;&gt;bar&lt;&#x2F;span&gt;&lt;span style=&quot;color:#39adb5;&quot;&gt;) {
+&lt;&#x2F;span&gt;&lt;span&gt;  &lt;&#x2F;span&gt;&lt;span style=&quot;font-style:italic;color:#7c4dff;&quot;&gt;return &lt;&#x2F;span&gt;&lt;span&gt;bar&lt;&#x2F;span&gt;&lt;span style=&quot;color:#39adb5;&quot;&gt;++;
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#39adb5;&quot;&gt;};
+&lt;&#x2F;span&gt;&lt;span&gt;
+&lt;&#x2F;span&gt;&lt;span style=&quot;color:#ffb62c;&quot;&gt;console&lt;&#x2F;span&gt;&lt;span style=&quot;color:#39adb5;&quot;&gt;.&lt;&#x2F;span&gt;&lt;span style=&quot;color:#6182b8;&quot;&gt;log&lt;&#x2F;span&gt;&lt;span&gt;(&lt;&#x2F;span&gt;&lt;span style=&quot;color:#6182b8;&quot;&gt;foo&lt;&#x2F;span&gt;&lt;span&gt;(&lt;&#x2F;span&gt;&lt;span style=&quot;color:#f76d47;&quot;&gt;5&lt;&#x2F;span&gt;&lt;span&gt;))&lt;&#x2F;span&gt;&lt;span style=&quot;color:#39adb5;&quot;&gt;;
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;h2 id=&quot;tables&quot;&gt;Tables&lt;a class=&quot;zola-anchor&quot; href=&quot;#tables&quot; aria-label=&quot;Anchor link for: tables&quot;&gt;🔗&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Option&lt;&#x2F;th&gt;&lt;th&gt;Description&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td&gt;data&lt;&#x2F;td&gt;&lt;td&gt;path to data files to supply the data that will be passed into templates.&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;engine&lt;&#x2F;td&gt;&lt;td&gt;engine to be used for processing templates. Handlebars is the default.&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td&gt;ext&lt;&#x2F;td&gt;&lt;td&gt;extension to be used for dest files.&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+&lt;p&gt;Right aligned columns&lt;&#x2F;p&gt;
+&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th style=&quot;text-align: right&quot;&gt;Option&lt;&#x2F;th&gt;&lt;th style=&quot;text-align: right&quot;&gt;Description&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;tr&gt;&lt;td style=&quot;text-align: right&quot;&gt;data&lt;&#x2F;td&gt;&lt;td style=&quot;text-align: right&quot;&gt;path to data files to supply the data that will be passed into templates.&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td style=&quot;text-align: right&quot;&gt;engine&lt;&#x2F;td&gt;&lt;td style=&quot;text-align: right&quot;&gt;engine to be used for processing templates. Handlebars is the default.&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;tr&gt;&lt;td style=&quot;text-align: right&quot;&gt;ext&lt;&#x2F;td&gt;&lt;td style=&quot;text-align: right&quot;&gt;extension to be used for dest files.&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+&lt;h2 id=&quot;links&quot;&gt;Links&lt;a class=&quot;zola-anchor&quot; href=&quot;#links&quot; aria-label=&quot;Anchor link for: links&quot;&gt;🔗&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;p&gt;&lt;a href=&quot;http:&#x2F;&#x2F;dev.nodeca.com&quot;&gt;link text&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;http:&#x2F;&#x2F;nodeca.github.io&#x2F;pica&#x2F;demo&#x2F;&quot; title=&quot;title text!&quot;&gt;link with title&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Autoconverted link https:&#x2F;&#x2F;github.com&#x2F;nodeca&#x2F;pica (enable linkify to see)&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;images&quot;&gt;Images&lt;a class=&quot;zola-anchor&quot; href=&quot;#images&quot; aria-label=&quot;Anchor link for: images&quot;&gt;🔗&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;figure&gt;
+    &lt;img src=&quot;https:&#x2F;&#x2F;octodex.github.com&#x2F;images&#x2F;minion.png&quot; class=&quot;inlineimg&quot;&gt;
+&lt;&#x2F;figure&gt;
+&lt;figure&gt;
+    &lt;img src=&quot;https:&#x2F;&#x2F;octodex.github.com&#x2F;images&#x2F;stormtroopocat.jpg&quot; class=&quot;inlineimg&quot;&gt;
+    &lt;figcaption&gt;
+        The Stormtroopocat
+    &lt;&#x2F;figcaption&gt;
+&lt;&#x2F;figure&gt;
+&lt;p&gt;Like links, Images also have a footnote style syntax&lt;&#x2F;p&gt;
+&lt;p&gt;![Alt text][id]&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;plugins&quot;&gt;Plugins&lt;a class=&quot;zola-anchor&quot; href=&quot;#plugins&quot; aria-label=&quot;Anchor link for: plugins&quot;&gt;🔗&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;p&gt;The killer feature of &lt;code&gt;markdown-it&lt;&#x2F;code&gt; is very effective support of
+&lt;a href=&quot;https:&#x2F;&#x2F;www.npmjs.org&#x2F;browse&#x2F;keyword&#x2F;markdown-it-plugin&quot;&gt;syntax plugins&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;emojies&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;markdown-it&#x2F;markdown-it-emoji&quot;&gt;Emojies&lt;&#x2F;a&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#emojies&quot; aria-label=&quot;Anchor link for: emojies&quot;&gt;🔗&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Classic markup: :wink: :crush: :cry: :tear: :laughing: :yum:&lt;&#x2F;p&gt;
+&lt;p&gt;Shortcuts (emoticons): :-) :-( 8-) ;)&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;see &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;markdown-it&#x2F;markdown-it-emoji#change-output&quot;&gt;how to change output&lt;&#x2F;a&gt; with twemoji.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;subscript-superscript&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;markdown-it&#x2F;markdown-it-sub&quot;&gt;Subscript&lt;&#x2F;a&gt; &#x2F; &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;markdown-it&#x2F;markdown-it-sup&quot;&gt;Superscript&lt;&#x2F;a&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#subscript-superscript&quot; aria-label=&quot;Anchor link for: subscript-superscript&quot;&gt;🔗&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;19^th^&lt;&#x2F;li&gt;
+&lt;li&gt;H~2~O&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;ins&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;markdown-it&#x2F;markdown-it-ins&quot;&gt;&amp;lt;ins&amp;gt;&lt;&#x2F;a&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#ins&quot; aria-label=&quot;Anchor link for: ins&quot;&gt;🔗&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
+&lt;p&gt;++Inserted text++&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;mark&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;markdown-it&#x2F;markdown-it-mark&quot;&gt;&amp;lt;mark&amp;gt;&lt;&#x2F;a&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#mark&quot; aria-label=&quot;Anchor link for: mark&quot;&gt;🔗&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
+&lt;p&gt;==Marked text==&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;footnotes&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;markdown-it&#x2F;markdown-it-footnote&quot;&gt;Footnotes&lt;&#x2F;a&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#footnotes&quot; aria-label=&quot;Anchor link for: footnotes&quot;&gt;🔗&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
+&lt;p&gt;Footnote 1 link&lt;sup class=&quot;footnote-reference&quot;&gt;&lt;a href=&quot;#first&quot;&gt;1&lt;&#x2F;a&gt;&lt;&#x2F;sup&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;Footnote 2 link&lt;sup class=&quot;footnote-reference&quot;&gt;&lt;a href=&quot;#second&quot;&gt;2&lt;&#x2F;a&gt;&lt;&#x2F;sup&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;Inline footnote^[Text of inline footnote] definition.&lt;&#x2F;p&gt;
+&lt;p&gt;Duplicated footnote reference&lt;sup class=&quot;footnote-reference&quot;&gt;&lt;a href=&quot;#second&quot;&gt;2&lt;&#x2F;a&gt;&lt;&#x2F;sup&gt;.&lt;&#x2F;p&gt;
+&lt;div class=&quot;footnote-definition&quot; id=&quot;first&quot;&gt;&lt;sup class=&quot;footnote-definition-label&quot;&gt;1&lt;&#x2F;sup&gt;
+&lt;p&gt;Footnote &lt;strong&gt;can have markup&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;&#x2F;div&gt;
+&lt;pre style=&quot;background-color:#fafafa;color:#80cbc4;&quot;&gt;&lt;code&gt;&lt;span&gt;and multiple paragraphs.
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;div class=&quot;footnote-definition&quot; id=&quot;second&quot;&gt;&lt;sup class=&quot;footnote-definition-label&quot;&gt;2&lt;&#x2F;sup&gt;
+&lt;p&gt;Footnote text.&lt;&#x2F;p&gt;
+&lt;&#x2F;div&gt;
+&lt;h3 id=&quot;definition-lists&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;markdown-it&#x2F;markdown-it-deflist&quot;&gt;Definition lists&lt;&#x2F;a&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#definition-lists&quot; aria-label=&quot;Anchor link for: definition-lists&quot;&gt;🔗&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
+&lt;p&gt;Term 1&lt;&#x2F;p&gt;
+&lt;p&gt;:   Definition 1
+with lazy continuation.&lt;&#x2F;p&gt;
+&lt;p&gt;Term 2 with &lt;em&gt;inline markup&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;:   Definition 2&lt;&#x2F;p&gt;
+&lt;pre style=&quot;background-color:#fafafa;color:#80cbc4;&quot;&gt;&lt;code&gt;&lt;span&gt;    { some code, part of Definition 2 }
+&lt;&#x2F;span&gt;&lt;span&gt;
+&lt;&#x2F;span&gt;&lt;span&gt;Third paragraph of definition 2.
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;
+&lt;p&gt;&lt;em&gt;Compact style:&lt;&#x2F;em&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;Term 1
+~ Definition 1&lt;&#x2F;p&gt;
+&lt;p&gt;Term 2
+~ Definition 2a
+~ Definition 2b&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;abbreviations&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;markdown-it&#x2F;markdown-it-abbr&quot;&gt;Abbreviations&lt;&#x2F;a&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#abbreviations&quot; aria-label=&quot;Anchor link for: abbreviations&quot;&gt;🔗&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
+&lt;p&gt;This is HTML abbreviation example.&lt;&#x2F;p&gt;
+&lt;p&gt;It converts &amp;quot;HTML&amp;quot;, but keep intact partial entries like &amp;quot;xxxHTMLyyy&amp;quot; and so on.&lt;&#x2F;p&gt;
+&lt;p&gt;*[HTML]: Hyper Text Markup Language&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;custom-containers&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;markdown-it&#x2F;markdown-it-container&quot;&gt;Custom containers&lt;&#x2F;a&gt;&lt;a class=&quot;zola-anchor&quot; href=&quot;#custom-containers&quot; aria-label=&quot;Anchor link for: custom-containers&quot;&gt;🔗&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
+&lt;p&gt;::: warning
+&lt;em&gt;here be dragons&lt;&#x2F;em&gt;
+:::&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Marx - Crítica al programa de Gotha</title>
+        <published>2021-12-04T00:00:00+00:00</published>
+        <updated>2021-12-04T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://abeldonate.github.io/readings/marx-critica-programa-gotha/" type="text/html"/>
+        <id>https://abeldonate.github.io/readings/marx-critica-programa-gotha/</id>
+        
+        <content type="html">&lt;p&gt;aCrítica al programa de unificación del &lt;strong&gt;Partido Obrero Socialdemócrata&lt;&#x2F;strong&gt; (Bebel y Liebknecht) y la &lt;strong&gt;Asociación General de Obreros Alemanes&lt;&#x2F;strong&gt; (Lassalle) en 1875.&lt;&#x2F;p&gt;
+&lt;p&gt;El Programa del que estamos hablando es el siguiente:&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;programa-del-partido-obrero-socialdemocrata-aleman&quot;&gt;Programa del Partido Obrero Socialdemócrata Alemán&lt;&#x2F;h1&gt;
+&lt;p&gt;I. El trabajo es la fuente de toda riqueza y de toda cultura, y como el trabajo útil sólo es posible dentro de la sociedad y a través de ella, el fruto íntegro del trabajo pertenece por igual derecho a todos los miembros de la sociedad.&lt;&#x2F;p&gt;
+&lt;p&gt;En la sociedad actual, los medios de trabajo son monopolio de la clase capitalista; el estado de dependencia de la clase obrera que de esto se deriva, es la causa de la miseria y de la esclavitud en todas sus formas.&lt;&#x2F;p&gt;
+&lt;p&gt;La emancipación del trabajo exige que los medios de trabajo se eleven a patrimonio común de la sociedad y que todo el trabajo sea regulado colectivamente, con un reparto equitativo del fruto del trabajo.&lt;&#x2F;p&gt;
+&lt;p&gt;La emancipación del trabajo tiene que ser obra de la clase obrera, frente a la cual todas las demás clases no forman más que una masa reaccionaria.&lt;&#x2F;p&gt;
+&lt;p&gt;La clase obrera procura su emancipación, en primer término, dentro del marco del Estado nacional de hoy, consciente de que el resultado necesario de sus aspiraciones, comunes a los obreros de todos los países civilizados, será la fraternización internacional de los pueblos.&lt;&#x2F;p&gt;
+&lt;p&gt;II. Partiendo de estos principios, el Partido Obrero Alemán aspira, por todos los medios legales, al Estado libre y la sociedad socialista; a la abolición del sistema del salario, con su ley de bronce y la explotación bajo todas sus formas; a la supresión de toda desigualdad social y política.&lt;&#x2F;p&gt;
+&lt;p&gt;III. Para preparar el camino a la solución del problema social, el Partido Obrero Alemán exige que se creen cooperativas de producción, con la ayuda del Estado bajo el control democrático del pueblo trabajador. En la industria y en la agricultura, las cooperativas de producción deberán crearse en proporciones tales, que de ellas surja la organización socialista de todo el trabajo.&lt;&#x2F;p&gt;
+&lt;p&gt;El Partido Obrero Alemán reclama como base libre del Estado:&lt;&#x2F;p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Derecho electoral general, igual, directo y secreto de todos los hombres mayores de 21 años de edad inclusive para todas las elecciones nacionales y municipales;&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Legislación directa por el pueblo con derecho a proponer y rechazar;&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Servicio militar general, milicia popular en lugar del ejército permanente. Decisión sobre la guerra y la paz por la representación popular;&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Derogación de todas las leyes de excepción, sobre todo de las ley&#x27;es de prensa, asociación y reunión;&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Justicia por el pueblo. Administración de la justicia con carácter gratuito.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;p&gt;El Partido Obrero Alemán exige, como base espiritual y moral del Estado:&lt;&#x2F;p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Educación popular general e igual a cargo del Estado. Asistencia escolar obligatoria general. Instrucción gratuita.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Libertad de la ciencia. Libertad de conciencia.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;p&gt;El Partido Obrero Alemán reclama, para defender a la clase obrera contra el poder del capital dentro y fuera de la sociedad de hoy:&lt;&#x2F;p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Libertad de asociación.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Jornada normal de trabajo y prohibición del trabajo del domingo.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Restricción del trabajo de la mujer y prohibición del trabajo infantil.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Inspección por el Estado de la industria en las fábricas, en los talleres y a domicilio.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Reglamentación del trabajo en las prisiones.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;Una ley eficaz de responsabilidad por las infracciones.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;hr &#x2F;&gt;
+&lt;h1 id=&quot;critica-al-programa-marx&quot;&gt;Crítica al programa - Marx&lt;&#x2F;h1&gt;
+&lt;h2 id=&quot;i&quot;&gt;I&lt;&#x2F;h2&gt;
+&lt;p&gt;&lt;em&gt;[El trabajo es la fuente de toda riqueza y de toda cultura, y como el trabajo útil sólo es posible dentro de la sociedad y a través de ella, el fruto íntegro del trabajo pertenece por igual derecho a todos los miembros de la sociedad]&lt;&#x2F;em&gt;.
+Naturaleza fuente de los valores de uso, no trabajo.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;em&gt;[En la sociedad actual, los medios de trabajo son monopolio de la clase capitalista; 
+el estado de dependencia de la clase obrera que de esto se deriva es la causa de la miseria y de la esclavitud en todas sus formas]&lt;&#x2F;em&gt;. 
+Lasalle no contempla a los terratenientes como clase monopolista&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;em&gt;[La emancipación del trabajo exige que los medios de trabajo se eleven a patrimonio común de la sociedad y que todo el trabajo sea regulado colectivamente, con un reparto equitativo del fruto del trabajo]&lt;&#x2F;em&gt;. 
+Fruto del trabajo → idea vaga
+Ahora, de aquí hay que deducir:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Primero: una parte para reponer los medios de producción consumidos.&lt;&#x2F;li&gt;
+&lt;li&gt;Segundo: una parte suplementaria para ampliar la producción.&lt;&#x2F;li&gt;
+&lt;li&gt;Tercero: el fondo de reserva o de seguro contra accidentes, trastornos debidos a fenómenos naturales, etc.&lt;br &#x2F;&gt;
+A posterior deduciremos:&lt;&#x2F;li&gt;
+&lt;li&gt;Primero: los gastos generales de administración, no concernientes a la producción&lt;&#x2F;li&gt;
+&lt;li&gt;Segundo: la parte que se destine a satisfacer necesidades colectivas tales como escuelas, instituciones sanitarias, etc&lt;&#x2F;li&gt;
+&lt;li&gt;Tercero: los fondos de sostenimuento de las personas no capacitadas para el trabajo, etc
+Después de esto ya podemos proceder al reparto. Se evapora la expresión &amp;quot;fruto íntegro del trabajo&amp;quot;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;La sociedad presenta el sello de la vieja sociedad en lo económico, cultural y moral.
+Desigual capacidad de rendimiento.
+Para evitar inconvenientes el derecho de bería de ser desigual.
+primera fase y segunda fase.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;em&gt;[La emancipación del trabajo tiene que ser obra de la clase obrera, frente a la cual todas las demás clases no forman más que una masa reaccionaria]&lt;&#x2F;em&gt;. 
+Las demás clases no forman una masa reaccionaria&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;em&gt;[La clase obrera procura su emancipación, en primer termino, dentro del marco del Estado nacional de hoy, consciente de que el resultado necesario de sus aspiraciones, comunes a los obreros de todos los países civilizados, será la fraternización internacional de los pueblos]&lt;&#x2F;em&gt;. &lt;&#x2F;p&gt;
+&lt;h2 id=&quot;ii&quot;&gt;II&lt;&#x2F;h2&gt;
+&lt;p&gt;&lt;em&gt;[Partiendo de estos principios, el Partido Obrero Alemán aspira, por todos los medios legales, al Estado libre y la sociedad socialista; a la abolición del sistema del salario, con su ley de bronce y la explotación bajo todas sus formas; a la supresión de toda desigualdad social y política]&lt;&#x2F;em&gt;
+Ley de bronce del salario lassalleana: oferta y demanda en los salarios (subsistencia&#x2F;procreación)
+Lassalle toma la apariencia por la esencia de la cosa (salario)&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;iii&quot;&gt;III&lt;&#x2F;h2&gt;
+&lt;p&gt;&lt;em&gt;[Para preparar el camino a la solución del problema social, el Partido Obrero Alemán exige que se creen cooperativas de producción, con la ayuda del Estado bajo el control democrático del pueblo trabajador. En la industria y en la agricultura, las cooperativas de producción deberán crearse en proporciones tales, que de ellas surja la organización socialista de todo el trabajo]&lt;&#x2F;em&gt;
+Lassalle plantea lucha de clases = problema social. La solución es la ayuda del estado&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;iv&quot;&gt;IV&lt;&#x2F;h2&gt;
+&lt;p&gt;El POA considera al Estado com un ser independiente con sus propios &amp;quot;fundamentos espirituales, morales y liberales&amp;quot;
+Periodo político de transición: &lt;strong&gt;Dictadura revolucionaria del proletariado&lt;&#x2F;strong&gt;
+Alejar al estado e iglesia de la educación
+Único medio de corrección de delincuentes: trabajo productivo&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>The geometry of the irrationals (Spanish)</title>
+        <published>2021-08-11T00:00:00+00:00</published>
+        <updated>2021-08-11T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://abeldonate.github.io/lectures/geometry-of-irrationals/" type="text/html"/>
+        <id>https://abeldonate.github.io/lectures/geometry-of-irrationals/</id>
+        
+        <content type="html">&lt;p&gt;In the following pdf you will find my lecture on the geometry of the irrational numbers&lt;&#x2F;p&gt;
+&lt;li classs=&quot;inline-block&quot;&gt;
+    &lt;a  target=&quot;_blank&quot;
+        class&quot;align-middle&quot;
+        href=&quot;geometry.pdf&quot;&gt;Geometry&lt;&#x2F;a&gt;
+&lt;&#x2F;li&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Workflow with bspwm as window manager</title>
+        <published>2021-08-11T00:00:00+00:00</published>
+        <updated>2021-08-11T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://abeldonate.github.io/projects/bspwm-as-window-manager/" type="text/html"/>
+        <id>https://abeldonate.github.io/projects/bspwm-as-window-manager/</id>
+        
+        <content type="html">&lt;p&gt;In this post I&#x27;m trying to explain my workflow on the computer. Dotfiles are in &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;abeldonate&#x2F;.dotfiles&quot;&gt;this&lt;&#x2F;a&gt; GitHub repo.&lt;&#x2F;p&gt;
+&lt;img src=&quot;screenshot.png&quot;&gt;
+&lt;p&gt;I use bspwm as tilling window manager and sxhkd for the shortcuts. I consider it one of the simplest wm for the easy config files and the intuitive working. For those who know the world of wm, bspwm might not be the best option because it is not as complete and modular as other wm, but I think it is a good way to start in ricing linux.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Bspwm&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;Bspwm is a tiling window manager that works as a binary tree, splitting the window in two each time you open a window.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Sxhkd&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;Sxhkd is a shortcut manager that allows you to store custom shortcuts. Shortcuts are very useful to call actions on bspwm (open, close, move, resize windows, etc) as well as open programs and in general run a custom command.&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Latex with Vim</title>
+        <published>2020-08-22T00:00:00+00:00</published>
+        <updated>2020-08-22T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://abeldonate.github.io/projects/latex-with-vim/" type="text/html"/>
+        <id>https://abeldonate.github.io/projects/latex-with-vim/</id>
+        
+        <content type="html">&lt;p&gt;I make my class notes with Vim in LaTeX using the extensions vim-tex and UltiSnip.&lt;&#x2F;p&gt;
+&lt;p&gt;All the work here have been taken from Gilles Castel &lt;a href=&quot;https:&#x2F;&#x2F;castel.dev&#x2F;post&#x2F;lecture-notes-1&#x2F;&quot;&gt;here&lt;&#x2F;a&gt;, who has documented all the process of improving his workflow with latex and vim insanely well.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;vimtex&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;vim-tex is an extension for vim that allows you to compile and render a .pdf file from a .tex in vim.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;UltiSnip&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;UltiSnip is a vim extension that manages snippets. Snippets are not only used for tex, but I find them incredibly useful when writing .tex files, as allows you to store repetitive and tedious patterns in a few keys. With a good structure of these snippets is possible even write faster than by hand.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Inkscape&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;I create the figures in my .tex files using Inkscape. Shortcuts for improving the workflow in Inkscape are available in Gilles Castell&#x27;s &lt;a href=&quot;https:&#x2F;&#x2F;castel.dev&#x2F;post&#x2F;lecture-notes-2&#x2F;&quot;&gt;webpage&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>

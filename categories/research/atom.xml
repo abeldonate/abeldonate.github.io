@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>Abel Doñate Muñoz - research</title>
+    <link href="https://abeldonate.github.io/categories/research/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://abeldonate.github.io/"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2023-09-08T00:00:00+00:00</updated>
+    <id>https://abeldonate.github.io/categories/research/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Bounded Cohomology of groups</title>
+        <published>2023-09-08T00:00:00+00:00</published>
+        <updated>2023-09-08T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://abeldonate.github.io/lectures/bounded-cohomology/" type="text/html"/>
+        <id>https://abeldonate.github.io/lectures/bounded-cohomology/</id>
+        
+        <content type="html">&lt;p&gt;In the following pdf you will find some notes I took during my research stay at ICMAT (Madrid) on Bounded Cohomology of groups.&lt;&#x2F;p&gt;
+&lt;p&gt;This lecture was the final project of the summer program JAE-INTRO at ICMAT. &lt;&#x2F;p&gt;
+&lt;li classs=&quot;inline-block&quot;&gt;
+    &lt;a  target=&quot;_blank&quot;
+        class&quot;align-middle&quot;
+        href=&quot;Notes.pdf&quot;&gt;Bounded Cohomology&lt;&#x2F;a&gt; 
+&lt;&#x2F;li&gt;
+</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Coxeter Matroids</title>
+        <published>2022-09-07T00:00:00+00:00</published>
+        <updated>2022-09-07T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://abeldonate.github.io/lectures/coxeter-matroids/" type="text/html"/>
+        <id>https://abeldonate.github.io/lectures/coxeter-matroids/</id>
+        
+        <content type="html">&lt;p&gt;In the following pdf you will find my lecture on the Coxeter Matroids.&lt;&#x2F;p&gt;
+&lt;p&gt;This lecture was the final project of a summer research course in Centre de Recerca Matemática (Mathematical center of research) in Barcelona&lt;&#x2F;p&gt;
+&lt;li classs=&quot;inline-block&quot;&gt;
+    &lt;a  target=&quot;_blank&quot;
+        class&quot;align-middle&quot;
+        href=&quot;PresentationCoxeter.pdf&quot;&gt;Coxeter Matroids&lt;&#x2F;a&gt; 
+&lt;&#x2F;li&gt;</content>
+        
+    </entry>
+</feed>

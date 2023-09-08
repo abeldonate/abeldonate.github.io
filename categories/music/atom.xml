@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>Abel Doñate Muñoz - music</title>
+    <link href="https://abeldonate.github.io/categories/music/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://abeldonate.github.io/"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2023-08-11T00:00:00+00:00</updated>
+    <id>https://abeldonate.github.io/categories/music/atom.xml</id>
+    <entry xml:lang="en">
+        <title>I crafted my own sikus (panflute)</title>
+        <published>2023-08-11T00:00:00+00:00</published>
+        <updated>2023-08-11T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://abeldonate.github.io/projects/sikus/" type="text/html"/>
+        <id>https://abeldonate.github.io/projects/sikus/</id>
+        
+        <content type="html">&lt;h1 id=&quot;motivation&quot;&gt;Motivation&lt;&#x2F;h1&gt;
+&lt;p&gt;I have always been a music enthusiast from both, the viewpoint of interpretation as well as theoretical issues. The project of making a sikus from scratch captures the essence of both of them, since theoretical knowledge is required (but also non-essential) and I will end up with a new easy to play instrument.&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;design-of-the-sikus&quot;&gt;Design of the sikus&lt;&#x2F;h1&gt;
+&lt;p&gt;There are plenty of choices for the design of the instrument. The first one is the choice of the material. The most common material is the bamboo, for its abundance in the region of its origins, but they also can be made of cane, processed wood, plastic, and even glass. I made mine of cane due to its proximity.&lt;&#x2F;p&gt;
+&lt;p&gt;The next choice is the distribution of the tubes, which have a wide range of options. I suggest in the next pictures four types of them (the naming is not standard):&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;type-1-the-linear&quot;&gt;Type 1: The linear&lt;&#x2F;h2&gt;
+&lt;p&gt;The most common type of panflute is the linear one. Just one stripe of tubes with a heptatonic (not equal) distribution. This can be interpreted as the notes of the C Major scale, as well as any greek mode depending which note you are beginning with. Folkloric songs can be performed in this heptatonic scale, but it has some limitations such as the impossibility of scale transport and the lack of some notes of chromatic scale. &lt;&#x2F;p&gt;
+&lt;img src=&quot;figures&#x2F;type1.svg&quot;&gt;
+&lt;h2 id=&quot;type-2-the-compact&quot;&gt;Type 2: The compact&lt;&#x2F;h2&gt;
+&lt;p&gt;But, hold on!, we can make a trick to save space and make the sikus more compact by adding a lower stripe. Distances between notes now get narrower, but notes are a little bit trickier to play. Scale is still pentatonic.&lt;&#x2F;p&gt;
+&lt;img src=&quot;figures&#x2F;type2.svg&quot;&gt;
+&lt;h2 id=&quot;type-3-the-chromatic&quot;&gt;Type 3: The chromatic&lt;&#x2F;h2&gt;
+&lt;p&gt;If we are used to piano keys, we can arrange the tubes following the same distribution, achieving a chromatic sikus. This has two main advantages: any occidental piece of music (that uses chromatic scale, of course) can be interpreted provided it is in the same range and piano players will find the distribution very comfortable. However, we get rid of the original essence of the instrument and its ethnomusicological implications.&lt;&#x2F;p&gt;
+&lt;img src=&quot;figures&#x2F;type3.svg&quot;&gt;
+&lt;h2 id=&quot;type-4-the-chromatic-compact&quot;&gt;Type 4: The chromatic compact&lt;&#x2F;h2&gt;
+&lt;p&gt;We construct this variation by positioning the classical occidental twelve-notes chromatic scale in zig-zag alternating up and down as in the picture. We end up with a sikus in which we can perform every chromatic piece as in the type 3, but the flute is more compact and handle. I&#x27;m sure that very few people are used to this configuration, and the reason is hided in the harmony: two common harmonic intervals, 5th major and 4th major (3:2 and 4:3 resp.) lay in different arrays (one on the top and the other on the bottom or viceversa), hindering the performance.&lt;&#x2F;p&gt;
+&lt;img src=&quot;figures&#x2F;type4.svg&quot;&gt;
+&lt;h1 id=&quot;crafting&quot;&gt;Crafting&lt;&#x2F;h1&gt;
+&lt;h2 id=&quot;step-1-prepare-the-material&quot;&gt;Step 1: Prepare the material&lt;&#x2F;h2&gt;
+&lt;p&gt;The odyssey begins in a cane field like the picture. The first step is cutting the canes, peeling them and make the chunks that will correspond to each tube. In this stage precision is not very important, but better try to cut the chunks as large as possible, making the incision close to the natural joint of the cane as shown in the picture.&lt;&#x2F;p&gt;
+&lt;!---
+
+&lt;img src=&quot;images&#x2F;canefield.jpg&quot; width=&quot;40%&quot; height=&quot;50&quot;&gt; 
+&lt;img src=&quot;images&#x2F;canes.jpg&quot; width=&quot;40%&quot; height=&quot;50&quot;&gt;
+&lt;img src=&quot;images&#x2F;peeled.jpg&quot; width=&quot;40%&quot; height=&quot;50&quot;&gt;
+&lt;img src=&quot;images&#x2F;joint.jpg&quot; width=&quot;40%&quot; height=&quot;50&quot;&gt;
+&lt;img src=&quot;images&#x2F;pretubes.jpg&quot; width=&quot;40%&quot; height=&quot;50&quot;&gt;
+---&gt;
+&lt;img src=&quot;images&#x2F;mosaicstp1.png&quot; width=&quot;100%&quot; height=&quot;auto&quot;&gt;
+&lt;p&gt;Once we have the tubes, we let them dry. This part is important, since the tuning would suffer a wide change if we manage to finish the sikus now. Every material is different and, as far as I know, for professional bamboo panflutes the average time artisans let them dry is around 3 months, but I in my case I have spent 2 weeks.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;step-2-select-and-tune-the-canes&quot;&gt;Step 2: Select and tune the canes&lt;&#x2F;h2&gt;
+&lt;p&gt;Time to clean the tubes carefully, since they have impurities that would obstruct the sound. A stick surrounded by sandpaper will do the trick. Then we sand the orifice of the tube making it smooth, and by this point we should be able to play a clear sound in the tube! We repeat this process for all the tubes.&lt;&#x2F;p&gt;
+&lt;p&gt;Once we have all the tubes it&#x27;s time to classify them in order to set which final note will be tuned each one. I suggest first to set the lower ones, and going in increasing order selecting a target tone for each tube (target tone should be, of course, higher than current tone).&lt;&#x2F;p&gt;
+&lt;img src=&quot;images&#x2F;mosaicstep2.png&quot; width=&quot;100%&quot; height=&quot;auto&quot;&gt;
+&lt;p&gt;We then use the sand paper to adjust each tube to the desired tone. I have made the choice of the type 4 panflute.&lt;&#x2F;p&gt;
+&lt;img src=&quot;images&#x2F;tones.jpg&quot; width=&quot;100%&quot; height=&quot;auto&quot;&gt;
+&lt;h2 id=&quot;step-3-fine-details&quot;&gt;Step 3: Fine details&lt;&#x2F;h2&gt;
+&lt;p&gt;For a more comfortable position and clearer sound we can perform two operations in the orifice of each tube: &lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;sand the internal part of the orifice to make the sound smoother&lt;&#x2F;li&gt;
+&lt;li&gt;make a chamfer in the position of the mouth for performance comfort &lt;&#x2F;li&gt;
+&lt;li&gt;sand the bottom of the tube for aesthetic purposes&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h1 id=&quot;result&quot;&gt;Result&lt;&#x2F;h1&gt;
+&lt;p&gt;The way of assembling the tubes is actually very free and creative. I have chosen to do it with a glue gun because, you know, I am so shabby, but I would have liked to attach the tubes with a fancy cord like traditional panflutes. I place two canes in the middle of the two layers as a separator. This allows the air to flow freely when blowing in the first layer.&lt;&#x2F;p&gt;
+&lt;img src=&quot;images&#x2F;top.jpg&quot; width=&quot;100%&quot; height=&quot;auto&quot;&gt;
+&lt;p&gt;This is the final result:&lt;&#x2F;p&gt;
+&lt;img src=&quot;images&#x2F;final.jpg&quot; width=&quot;100%&quot; height=&quot;auto&quot;&gt;
+&lt;p&gt;For sharper details one could sand the glue and varnish the sikus.&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;comments-and-problems-encountered&quot;&gt;Comments and problems encountered&lt;&#x2F;h1&gt;
+&lt;p&gt;The sound is surprisingly acceptable, taking into account we have used regular canes instead of bamboo (that happens to be straighter, more regular and has better musical properties). It is a totally playable instrument, though I still have some performance difficulties, specially due to some irregularities of the orifices. &lt;&#x2F;p&gt;
+&lt;p&gt;In my version the lowest note is F#3, which makes the sikus a little bit more soprano than I would like it to be, but the largest cane that I encountered was an F#3.&lt;&#x2F;p&gt;
+&lt;p&gt;I hope this post encourage you to craft your own sikus in case you have entered for this reason, expanded your knowledge about sikus in case you have entered in search of information, or simply wasted 5 minutes reading some stuff a random guy have posted to internet because, you know, we need some distractions from the alienating world.&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>Abel Doñate Muñoz - geometry</title>
+    <link href="https://abeldonate.github.io/tags/geometry/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://abeldonate.github.io/"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2022-09-07T00:00:00+00:00</updated>
+    <id>https://abeldonate.github.io/tags/geometry/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Coxeter Matroids</title>
+        <published>2022-09-07T00:00:00+00:00</published>
+        <updated>2022-09-07T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://abeldonate.github.io/lectures/coxeter-matroids/" type="text/html"/>
+        <id>https://abeldonate.github.io/lectures/coxeter-matroids/</id>
+        
+        <content type="html">&lt;p&gt;In the following pdf you will find my lecture on the Coxeter Matroids.&lt;&#x2F;p&gt;
+&lt;p&gt;This lecture was the final project of a summer research course in Centre de Recerca Matemática (Mathematical center of research) in Barcelona&lt;&#x2F;p&gt;
+&lt;li classs=&quot;inline-block&quot;&gt;
+    &lt;a  target=&quot;_blank&quot;
+        class&quot;align-middle&quot;
+        href=&quot;PresentationCoxeter.pdf&quot;&gt;Coxeter Matroids&lt;&#x2F;a&gt; 
+&lt;&#x2F;li&gt;</content>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>The geometry of the irrationals (Spanish)</title>
+        <published>2021-08-11T00:00:00+00:00</published>
+        <updated>2021-08-11T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://abeldonate.github.io/lectures/geometry-of-irrationals/" type="text/html"/>
+        <id>https://abeldonate.github.io/lectures/geometry-of-irrationals/</id>
+        
+        <content type="html">&lt;p&gt;In the following pdf you will find my lecture on the geometry of the irrational numbers&lt;&#x2F;p&gt;
+&lt;li classs=&quot;inline-block&quot;&gt;
+    &lt;a  target=&quot;_blank&quot;
+        class&quot;align-middle&quot;
+        href=&quot;geometry.pdf&quot;&gt;Geometry&lt;&#x2F;a&gt;
+&lt;&#x2F;li&gt;
+</content>
+        
+    </entry>
+</feed>
