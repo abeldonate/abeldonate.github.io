@@ -71,7 +71,7 @@ For a more comfortable position and clearer sound we can perform two operations 
 
 
 # Result
-The way of assembling the tubes is actually very free and creative. I have chosen to do it with a glue gun because, you know, I as so shabby, but I would have liked to attach the tubes with a fancy cord like traditional panflutes. I place two canes in the middle of the two layers as a separator. This allows the air to flow freely when blowing in the first layer.
+The way of assembling the tubes is actually very free and creative. I have chosen to do it with a glue gun because, you know, I am so shabby, but I would have liked to attach the tubes with a fancy cord like traditional panflutes. I place two canes in the middle of the two layers as a separator. This allows the air to flow freely when blowing in the first layer.
 
 <img src="images/top.jpg" width="100%" height="auto">
 

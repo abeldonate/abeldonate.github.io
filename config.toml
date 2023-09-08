@@ -2,7 +2,7 @@
 base_url = "https://abeldonate.github.io/"
 
 title = "Abel Doñate Muñoz"
-description = "My personal website"
+description = ""
 default_language = "en"
 
 # Whether to automatically compile all Sass files in the sass directory
